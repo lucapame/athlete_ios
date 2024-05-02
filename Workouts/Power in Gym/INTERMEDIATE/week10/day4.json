@@ -1,0 +1,2807 @@
+{
+  "contentId": 19623,
+  "subContentId": 0,
+  "title": null,
+  "summary": null,
+  "urlPartial": "power-in-gym-total-body-grind",
+  "sets": [
+    {
+      "title": "Total-body grind",
+      "summary": "",
+      "buttonText": "Start",
+      "subTitle": "Centr Power in Gym: Intermediate week 10",
+      "setTypeLookupId": 1,
+      "appleWorkoutTypeLookupId": 50,
+      "imageList": {
+        "landscapewidemobile1x": {
+          "url": "https://cdn.centr.com/content/20000/19623/images/landscapewidemobile1x-cp-int-p4-full-169-v2.jpg",
+          "altText": null
+        },
+        "landscapewidemobile2x": {
+          "url": "https://cdn.centr.com/content/20000/19623/images/landscapewidemobile2x-cp-int-p4-full-169-v2.jpg",
+          "altText": null
+        },
+        "landscapewidemobile3x": {
+          "url": "https://cdn.centr.com/content/20000/19623/images/landscapewidemobile3x-cp-int-p4-full-169-v2.jpg",
+          "altText": null
+        },
+        "landscapewidedesktop1x": {
+          "url": "https://cdn.centr.com/content/20000/19623/images/landscapewidedesktop1x-cp-int-p4-full-169-v2.jpg",
+          "altText": null
+        },
+        "landscapewidedesktop2x": {
+          "url": "https://cdn.centr.com/content/20000/19623/images/landscapewidedesktop2x-cp-int-p4-full-169-v2.jpg",
+          "altText": null
+        },
+        "portrait1x": {
+          "url": "https://cdn.centr.com/content/20000/19623/images/portrait1x-cp-int-p4-full-34-v2.jpg",
+          "altText": null
+        },
+        "portrait2x": {
+          "url": "https://cdn.centr.com/content/20000/19623/images/portrait2x-cp-int-p4-full-34-v2.jpg",
+          "altText": null
+        },
+        "portrait3x": {
+          "url": "https://cdn.centr.com/content/20000/19623/images/portrait3x-cp-int-p4-full-34-v2.jpg",
+          "altText": null
+        }
+      },
+      "levels": [
+        {
+          "levelLookupId": 0,
+          "durationInSeconds": 45,
+          "equipment": [
+            {
+              "id": 187,
+              "name": "Barbell"
+            },
+            {
+              "id": 194,
+              "name": "Bench (incline)"
+            },
+            {
+              "id": 227,
+              "name": "Cable machine"
+            },
+            {
+              "id": 138,
+              "name": "Dumbbells"
+            },
+            {
+              "id": 228,
+              "name": "Seated calf raise machine"
+            },
+            {
+              "id": 254,
+              "name": "Squat rack"
+            },
+            {
+              "id": 192,
+              "name": "Weight plate/s"
+            }
+          ],
+          "targets": [
+            {
+              "id": 164,
+              "name": "Full body"
+            }
+          ],
+          "workouts": [
+            {
+              "mappingId": "ddee8a02-e6b8-88b2-ee34-54c559a66349",
+              "exerciseIndex": 0,
+              "title": "Workout",
+              "introText": "<p>A mix of isolation and compound exercises will keep your muscles guessing for a strong full-body sweat sesh.</p>\n\n<p>Nail your form with the <a href=\"/article/19836\">tutorials</a> before training.</p>\n\n<p>For exercises that alternate sides, split the total number of specified reps between each side.</p>",
+              "isDefault": true,
+              "media": [],
+              "groups": [
+                {
+                  "title": "Warm-up",
+                  "summaryHeading": "Be ready",
+                  "summary": "Get your body ready for a strong workout.",
+                  "exercises": [
+                    {
+                      "contentId": 14435,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15937,
+                      "title": "Dumbbell seated Arnold press (25% lifting weight)",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 30,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14435/images/landmob-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14435/images/landdesk-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14435/images/portmob-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14435/images/portdesk-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14435/images/landscapedesktop1x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14435/images/landscapedesktop2x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14435/images/landscapewidedesktop1x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14435/images/landscapewidedesktop2x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14435/images/landscapemobile1x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14435/images/landscapemobile2x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14435/images/landscapemobile3x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/f3gO6BSV.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/f3gO6BSV-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/f3gO6BSV-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14436,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15938,
+                      "title": "Dumbbell seated Arnold press (50% lifting weight)",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 30,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14436/images/landmob-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14436/images/landdesk-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14436/images/portmob-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14436/images/portdesk-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14436/images/landscapedesktop1x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14436/images/landscapedesktop2x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14436/images/landscapewidedesktop1x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14436/images/landscapewidedesktop2x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14436/images/landscapemobile1x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14436/images/landscapemobile2x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14436/images/landscapemobile3x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/f3gO6BSV.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/f3gO6BSV-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/f3gO6BSV-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14437,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15940,
+                      "title": "Dumbbell seated Arnold press (75% lifting weight)",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 30,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14437/images/landmob-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14437/images/landdesk-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14437/images/portmob-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14437/images/portdesk-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14437/images/landscapedesktop1x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14437/images/landscapedesktop2x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14437/images/landscapewidedesktop1x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14437/images/landscapewidedesktop2x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14437/images/landscapemobile1x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14437/images/landscapemobile2x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14437/images/landscapemobile3x-cp---dumbbell-seated-arnold-press---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/f3gO6BSV.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/f3gO6BSV-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/f3gO6BSV-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Round 1",
+                  "summaryHeading": "Start strong",
+                  "summary": "On the presses, split the total number of specified reps between each side.",
+                  "exercises": [
+                    {
+                      "contentId": 14471,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15879,
+                      "title": "Alternating Arnold press",
+                      "durationInSeconds": 20,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landmob-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landdesk-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/portmob-cp---alternating-arnold-press---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/portdesk-cp---alternating-arnold-press---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapedesktop1x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapedesktop2x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapewidedesktop1x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapewidedesktop2x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapemobile1x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapemobile2x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapemobile3x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/5vWC81NG.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/5vWC81NG-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/5vWC81NG-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14512,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15911,
+                      "title": "Cable machine single-arm lateral raise (right)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landmob-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landdesk-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/portmob-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/portdesk-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapedesktop1x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapedesktop2x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapewidedesktop1x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapewidedesktop2x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapemobile1x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapemobile2x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapemobile3x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/bdHPEe7T.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/bdHPEe7T-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/bdHPEe7T-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14511,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15911,
+                      "title": "Cable machine single-arm lateral raise (left)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landmob-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landdesk-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/portmob-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/portdesk-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapedesktop1x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapedesktop2x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapewidedesktop1x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapewidedesktop2x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapemobile1x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapemobile2x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapemobile3x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/yrs5OOME.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/yrs5OOME-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/yrs5OOME-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14471,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15879,
+                      "title": "Alternating Arnold press",
+                      "durationInSeconds": 20,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landmob-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landdesk-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/portmob-cp---alternating-arnold-press---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/portdesk-cp---alternating-arnold-press---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapedesktop1x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapedesktop2x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapewidedesktop1x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapewidedesktop2x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapemobile1x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapemobile2x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapemobile3x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/5vWC81NG.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/5vWC81NG-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/5vWC81NG-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14512,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15911,
+                      "title": "Cable machine single-arm lateral raise (right)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landmob-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landdesk-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/portmob-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/portdesk-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapedesktop1x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapedesktop2x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapewidedesktop1x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapewidedesktop2x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapemobile1x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapemobile2x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapemobile3x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/bdHPEe7T.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/bdHPEe7T-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/bdHPEe7T-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14511,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15911,
+                      "title": "Cable machine single-arm lateral raise (left)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landmob-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landdesk-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/portmob-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/portdesk-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapedesktop1x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapedesktop2x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapewidedesktop1x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapewidedesktop2x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapemobile1x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapemobile2x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapemobile3x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/yrs5OOME.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/yrs5OOME-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/yrs5OOME-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14471,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15879,
+                      "title": "Alternating Arnold press",
+                      "durationInSeconds": 20,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landmob-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landdesk-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/portmob-cp---alternating-arnold-press---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/portdesk-cp---alternating-arnold-press---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapedesktop1x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapedesktop2x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapewidedesktop1x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapewidedesktop2x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapemobile1x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapemobile2x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapemobile3x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/5vWC81NG.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/5vWC81NG-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/5vWC81NG-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14512,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15911,
+                      "title": "Cable machine single-arm lateral raise (right)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landmob-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landdesk-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/portmob-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/portdesk-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapedesktop1x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapedesktop2x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapewidedesktop1x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapewidedesktop2x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapemobile1x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapemobile2x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapemobile3x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/bdHPEe7T.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/bdHPEe7T-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/bdHPEe7T-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14511,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15911,
+                      "title": "Cable machine single-arm lateral raise (left)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landmob-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landdesk-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/portmob-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/portdesk-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapedesktop1x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapedesktop2x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapewidedesktop1x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapewidedesktop2x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapemobile1x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapemobile2x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapemobile3x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/yrs5OOME.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/yrs5OOME-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/yrs5OOME-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14471,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15879,
+                      "title": "Alternating Arnold press",
+                      "durationInSeconds": 20,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landmob-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landdesk-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/portmob-cp---alternating-arnold-press---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/portdesk-cp---alternating-arnold-press---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapedesktop1x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapedesktop2x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapewidedesktop1x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapewidedesktop2x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapemobile1x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapemobile2x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14471/images/landscapemobile3x-cp---alternating-arnold-press---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/5vWC81NG.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/5vWC81NG-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/5vWC81NG-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14512,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15911,
+                      "title": "Cable machine single-arm lateral raise (right)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landmob-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landdesk-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/portmob-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/portdesk-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapedesktop1x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapedesktop2x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapewidedesktop1x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapewidedesktop2x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapemobile1x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapemobile2x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14512/images/landscapemobile3x-cp---cable-machine-single-arm-lateral-raise-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/bdHPEe7T.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/bdHPEe7T-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/bdHPEe7T-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14511,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15911,
+                      "title": "Cable machine single-arm lateral raise (left)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landmob-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landdesk-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/portmob-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/portdesk-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapedesktop1x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapedesktop2x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapewidedesktop1x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapewidedesktop2x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapemobile1x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapemobile2x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14511/images/landscapemobile3x-cp---cable-machine-single-arm-lateral-raise-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/yrs5OOME.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/yrs5OOME-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/yrs5OOME-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Round 2",
+                  "summaryHeading": "Hit the target",
+                  "summary": "Big reps for your upper back and shoulders.",
+                  "exercises": [
+                    {
+                      "contentId": 14404,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15923,
+                      "title": "Dumbbell front raise + rotation",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landmob-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landdesk-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/portmob-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/portdesk-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapedesktop1x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapedesktop2x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapewidedesktop1x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapewidedesktop2x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapemobile1x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapemobile2x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapemobile3x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/Oj4hZCi0.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/Oj4hZCi0-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/Oj4hZCi0-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14467,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15941,
+                      "title": "Dumbbell seated rear flys",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landmob-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landdesk-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/portmob-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/portdesk-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapedesktop1x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapedesktop2x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapewidedesktop1x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapewidedesktop2x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapemobile1x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapemobile2x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapemobile3x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/6DPipXfe.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/6DPipXfe-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/6DPipXfe-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14404,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15923,
+                      "title": "Dumbbell front raise + rotation",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landmob-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landdesk-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/portmob-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/portdesk-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapedesktop1x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapedesktop2x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapewidedesktop1x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapewidedesktop2x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapemobile1x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapemobile2x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapemobile3x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/Oj4hZCi0.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/Oj4hZCi0-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/Oj4hZCi0-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14467,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15941,
+                      "title": "Dumbbell seated rear flys",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landmob-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landdesk-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/portmob-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/portdesk-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapedesktop1x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapedesktop2x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapewidedesktop1x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapewidedesktop2x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapemobile1x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapemobile2x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapemobile3x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/6DPipXfe.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/6DPipXfe-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/6DPipXfe-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14404,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15923,
+                      "title": "Dumbbell front raise + rotation",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landmob-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landdesk-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/portmob-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/portdesk-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapedesktop1x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapedesktop2x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapewidedesktop1x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapewidedesktop2x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapemobile1x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapemobile2x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14404/images/landscapemobile3x-cp---dumbbell-front-raise-rotation---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/Oj4hZCi0.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/Oj4hZCi0-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/Oj4hZCi0-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14467,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15941,
+                      "title": "Dumbbell seated rear flys",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landmob-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landdesk-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/portmob-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/portdesk-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapedesktop1x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapedesktop2x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapewidedesktop1x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapewidedesktop2x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapemobile1x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapemobile2x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14467/images/landscapemobile3x-cp---dumbbell-seated-rear-flys---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/6DPipXfe.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/6DPipXfe-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/6DPipXfe-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Round 3",
+                  "summaryHeading": "Feel the burn",
+                  "summary": "Keep a steady pace for major glute gains.",
+                  "exercises": [
+                    {
+                      "contentId": 19112,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 19654,
+                      "title": "Barbell bench hip thrust",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landmob-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landdesk-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/portmob-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/portdesk-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapedesktop1x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapedesktop2x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapewidedesktop1x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapewidedesktop2x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapemobile1x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapemobile2x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapemobile3x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/74FfEySi.m3u8"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://cdn.jwplayer.com/videos/74FfEySi-f9Vyd3qF.mp4"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://cdn.jwplayer.com/videos/74FfEySi-ryqiVsBL.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 19112,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 19654,
+                      "title": "Barbell bench hip thrust",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landmob-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landdesk-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/portmob-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/portdesk-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapedesktop1x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapedesktop2x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapewidedesktop1x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapewidedesktop2x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapemobile1x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapemobile2x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapemobile3x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/74FfEySi.m3u8"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://cdn.jwplayer.com/videos/74FfEySi-f9Vyd3qF.mp4"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://cdn.jwplayer.com/videos/74FfEySi-ryqiVsBL.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 19112,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 19654,
+                      "title": "Barbell bench hip thrust",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landmob-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landdesk-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/portmob-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/portdesk-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapedesktop1x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapedesktop2x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapewidedesktop1x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapewidedesktop2x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapemobile1x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapemobile2x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/20000/19112/images/landscapemobile3x-cpah---barbell-bench-hip-thrust---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/74FfEySi.m3u8"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://cdn.jwplayer.com/videos/74FfEySi-f9Vyd3qF.mp4"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://cdn.jwplayer.com/videos/74FfEySi-ryqiVsBL.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Round 4",
+                  "summaryHeading": "Triple trouble",
+                  "summary": "On the skater lunges, split the total number of specified reps between each side.",
+                  "exercises": [
+                    {
+                      "contentId": 14381,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15893,
+                      "title": "Barbell forward static lunge (right)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landmob-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landdesk-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/portmob-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/portdesk-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapedesktop1x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapedesktop2x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapewidedesktop1x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapewidedesktop2x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapemobile1x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapemobile2x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapemobile3x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/Zp8dzoxg.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/Zp8dzoxg-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/Zp8dzoxg-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14380,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15893,
+                      "title": "Barbell forward static lunge (left)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landmob-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landdesk-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/portmob-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/portdesk-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapedesktop1x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapedesktop2x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapewidedesktop1x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapewidedesktop2x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapemobile1x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapemobile2x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapemobile3x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/RaLcYJis.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/RaLcYJis-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/RaLcYJis-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14464,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15916,
+                      "title": "Dumbbell alternating skater lunges",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landmob-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landdesk-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/portmob-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/portdesk-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapedesktop1x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapedesktop2x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapewidedesktop1x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapewidedesktop2x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapemobile1x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapemobile2x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapemobile3x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/RszhUOt2.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/RszhUOt2-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/RszhUOt2-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 19708,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15173,
+                      "title": "Machine calf raise",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landmob-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landdesk-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/portmob-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/portdesk-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapedesktop1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapedesktop2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapewidedesktop1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapewidedesktop2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile3x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/nlxQBf6K.m3u8"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://cdn.jwplayer.com/videos/nlxQBf6K-tcsSlRd8.mp4"
+                        },
+                        {
+                          "mediaType": 1,
+                          "value": "https://cdn.jwplayer.com/videos/nlxQBf6K-ryqiVsBL.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14381,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15893,
+                      "title": "Barbell forward static lunge (right)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landmob-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landdesk-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/portmob-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/portdesk-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapedesktop1x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapedesktop2x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapewidedesktop1x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapewidedesktop2x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapemobile1x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapemobile2x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapemobile3x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/Zp8dzoxg.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/Zp8dzoxg-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/Zp8dzoxg-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14380,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15893,
+                      "title": "Barbell forward static lunge (left)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landmob-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landdesk-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/portmob-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/portdesk-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapedesktop1x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapedesktop2x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapewidedesktop1x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapewidedesktop2x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapemobile1x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapemobile2x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapemobile3x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/RaLcYJis.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/RaLcYJis-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/RaLcYJis-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14464,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15916,
+                      "title": "Dumbbell alternating skater lunges",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landmob-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landdesk-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/portmob-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/portdesk-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapedesktop1x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapedesktop2x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapewidedesktop1x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapewidedesktop2x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapemobile1x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapemobile2x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapemobile3x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/RszhUOt2.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/RszhUOt2-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/RszhUOt2-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 19708,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15173,
+                      "title": "Machine calf raise",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landmob-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landdesk-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/portmob-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/portdesk-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapedesktop1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapedesktop2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapewidedesktop1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapewidedesktop2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile3x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/nlxQBf6K.m3u8"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://cdn.jwplayer.com/videos/nlxQBf6K-tcsSlRd8.mp4"
+                        },
+                        {
+                          "mediaType": 1,
+                          "value": "https://cdn.jwplayer.com/videos/nlxQBf6K-ryqiVsBL.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14381,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15893,
+                      "title": "Barbell forward static lunge (right)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landmob-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landdesk-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/portmob-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/portdesk-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapedesktop1x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapedesktop2x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapewidedesktop1x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapewidedesktop2x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapemobile1x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapemobile2x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14381/images/landscapemobile3x-cp---barbell-forward-static-lunge-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/Zp8dzoxg.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/Zp8dzoxg-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/Zp8dzoxg-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14380,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15893,
+                      "title": "Barbell forward static lunge (left)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landmob-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landdesk-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/portmob-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/portdesk-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapedesktop1x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapedesktop2x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapewidedesktop1x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapewidedesktop2x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapemobile1x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapemobile2x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14380/images/landscapemobile3x-cp---barbell-forward-static-lunge-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/RaLcYJis.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/RaLcYJis-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/RaLcYJis-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14464,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15916,
+                      "title": "Dumbbell alternating skater lunges",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landmob-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landdesk-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/portmob-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/portdesk-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapedesktop1x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapedesktop2x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapewidedesktop1x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapewidedesktop2x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapemobile1x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapemobile2x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14464/images/landscapemobile3x-cp---dumbbell-alternating-skater-lunges---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/RszhUOt2.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/RszhUOt2-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/RszhUOt2-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 19708,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15173,
+                      "title": "Machine calf raise",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 0,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landmob-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landdesk-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/portmob-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/portdesk-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapedesktop1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapedesktop2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapewidedesktop1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapewidedesktop2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile3x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/nlxQBf6K.m3u8"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://cdn.jwplayer.com/videos/nlxQBf6K-tcsSlRd8.mp4"
+                        },
+                        {
+                          "mediaType": 1,
+                          "value": "https://cdn.jwplayer.com/videos/nlxQBf6K-ryqiVsBL.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                }
+              ],
+              "imageList": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "canFavourite": false,
+  "seoContent": []
+}

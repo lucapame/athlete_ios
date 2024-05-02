@@ -1,0 +1,2215 @@
+{
+  "contentId": 19620,
+  "subContentId": 0,
+  "title": null,
+  "summary": null,
+  "urlPartial": "power-in-gym-lower-body-momentum",
+  "sets": [
+    {
+      "title": "Lower-body momentum",
+      "summary": "",
+      "buttonText": "Start",
+      "subTitle": "Centr Power in Gym: Intermediate week 10",
+      "setTypeLookupId": 1,
+      "appleWorkoutTypeLookupId": 50,
+      "imageList": {
+        "landscapewidemobile1x": {
+          "url": "https://cdn.centr.com/content/20000/19620/images/landscapewidemobile1x-cp-int-p4-legs-169-v2.jpg",
+          "altText": null
+        },
+        "landscapewidemobile2x": {
+          "url": "https://cdn.centr.com/content/20000/19620/images/landscapewidemobile2x-cp-int-p4-legs-169-v2.jpg",
+          "altText": null
+        },
+        "landscapewidemobile3x": {
+          "url": "https://cdn.centr.com/content/20000/19620/images/landscapewidemobile3x-cp-int-p4-legs-169-v2.jpg",
+          "altText": null
+        },
+        "landscapewidedesktop1x": {
+          "url": "https://cdn.centr.com/content/20000/19620/images/landscapewidedesktop1x-cp-int-p4-legs-169-v2.jpg",
+          "altText": null
+        },
+        "landscapewidedesktop2x": {
+          "url": "https://cdn.centr.com/content/20000/19620/images/landscapewidedesktop2x-cp-int-p4-legs-169-v2.jpg",
+          "altText": null
+        },
+        "portrait1x": {
+          "url": "https://cdn.centr.com/content/20000/19620/images/portrait1x-cp-int-p4-legs-34-v3.jpg",
+          "altText": null
+        },
+        "portrait2x": {
+          "url": "https://cdn.centr.com/content/20000/19620/images/portrait2x-cp-int-p4-legs-34-v3.jpg",
+          "altText": null
+        },
+        "portrait3x": {
+          "url": "https://cdn.centr.com/content/20000/19620/images/portrait3x-cp-int-p4-legs-34-v3.jpg",
+          "altText": null
+        }
+      },
+      "levels": [
+        {
+          "levelLookupId": 0,
+          "durationInSeconds": 45,
+          "equipment": [
+            {
+              "id": 187,
+              "name": "Barbell"
+            },
+            {
+              "id": 193,
+              "name": "Bench"
+            },
+            {
+              "id": 138,
+              "name": "Dumbbells"
+            },
+            {
+              "id": 256,
+              "name": "Leg extension machine"
+            },
+            {
+              "id": 228,
+              "name": "Seated calf raise machine"
+            },
+            {
+              "id": 254,
+              "name": "Squat rack"
+            },
+            {
+              "id": 192,
+              "name": "Weight plate/s"
+            }
+          ],
+          "targets": [
+            {
+              "id": 206,
+              "name": "Legs"
+            }
+          ],
+          "workouts": [
+            {
+              "mappingId": "fbb962fd-e324-2af1-73a2-773be1c79b7c",
+              "exerciseIndex": 0,
+              "title": "Workout",
+              "introText": "<p>Before supercharging your lower-body power with high reps and a drop set, lock your form down with the <a href=\"/article/19633\">tutorials</a>.</p>",
+              "isDefault": true,
+              "media": [],
+              "groups": [
+                {
+                  "title": "Warm-up",
+                  "summaryHeading": "Be ready",
+                  "summary": "Get your body ready for a strong workout.",
+                  "exercises": [
+                    {
+                      "contentId": 14364,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 14807,
+                      "title": "Barbell back squat - bar only",
+                      "durationInSeconds": 15,
+                      "timestamp": 0,
+                      "rest": 30,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14364/images/landmob-cp---barbell-back-squat---bar-only---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14364/images/landdesk-cp---barbell-back-squat---bar-only---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14364/images/portmob-cp---barbell-back-squat---bar-only---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14364/images/portdesk-cp---barbell-back-squat---bar-only---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14364/images/landscapedesktop1x-cp---barbell-back-squat---bar-only---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14364/images/landscapedesktop2x-cp---barbell-back-squat---bar-only---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14364/images/landscapewidedesktop1x-cp---barbell-back-squat---bar-only---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14364/images/landscapewidedesktop2x-cp---barbell-back-squat---bar-only---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14364/images/landscapemobile1x-cp---barbell-back-squat---bar-only---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14364/images/landscapemobile2x-cp---barbell-back-squat---bar-only---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14364/images/landscapemobile3x-cp---barbell-back-squat---bar-only---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/nMkNVb89.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/nMkNVb89-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/nMkNVb89-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14361,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15885,
+                      "title": "Barbell back squat (25% lifting weight)",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 30,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14361/images/landmob-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14361/images/landdesk-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14361/images/portmob-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14361/images/portdesk-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14361/images/landscapedesktop1x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14361/images/landscapedesktop2x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14361/images/landscapewidedesktop1x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14361/images/landscapewidedesktop2x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14361/images/landscapemobile1x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14361/images/landscapemobile2x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14361/images/landscapemobile3x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/hIPuWpyu.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/hIPuWpyu-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/hIPuWpyu-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14362,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 14808,
+                      "title": "Barbell back squat (50% lifting weight)",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 30,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14362/images/landmob-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14362/images/landdesk-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14362/images/portmob-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14362/images/portdesk-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14362/images/landscapedesktop1x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14362/images/landscapedesktop2x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14362/images/landscapewidedesktop1x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14362/images/landscapewidedesktop2x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14362/images/landscapemobile1x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14362/images/landscapemobile2x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14362/images/landscapemobile3x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/hIPuWpyu.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/hIPuWpyu-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/hIPuWpyu-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Round 1",
+                  "summaryHeading": "High powered",
+                  "summary": "A mini drop set will rev up your posterior chain gains.",
+                  "exercises": [
+                    {
+                      "contentId": 14360,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 14806,
+                      "title": "Barbell back squat",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landmob-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landdesk-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/portmob-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/portdesk-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapedesktop1x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapedesktop2x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapewidedesktop1x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapewidedesktop2x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapemobile1x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapemobile2x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapemobile3x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/hIPuWpyu.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/hIPuWpyu-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/hIPuWpyu-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14360,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 14806,
+                      "title": "Barbell back squat",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landmob-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landdesk-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/portmob-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/portdesk-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapedesktop1x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapedesktop2x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapewidedesktop1x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapewidedesktop2x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapemobile1x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapemobile2x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapemobile3x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/hIPuWpyu.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/hIPuWpyu-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/hIPuWpyu-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14360,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 14806,
+                      "title": "Barbell back squat",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landmob-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landdesk-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/portmob-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/portdesk-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapedesktop1x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapedesktop2x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapewidedesktop1x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapewidedesktop2x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapemobile1x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapemobile2x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapemobile3x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/hIPuWpyu.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/hIPuWpyu-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/hIPuWpyu-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14360,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 14806,
+                      "title": "Barbell back squat",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 10,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landmob-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landdesk-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/portmob-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/portdesk-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapedesktop1x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapedesktop2x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapewidedesktop1x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapewidedesktop2x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapemobile1x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapemobile2x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapemobile3x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/hIPuWpyu.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/hIPuWpyu-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/hIPuWpyu-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14360,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 14806,
+                      "title": "Barbell back squat",
+                      "durationInSeconds": 5,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landmob-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landdesk-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/portmob-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/portdesk-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapedesktop1x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapedesktop2x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapewidedesktop1x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapewidedesktop2x-cp---barbell-back-squat---169--v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapemobile1x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapemobile2x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14360/images/landscapemobile3x-cp---barbell-back-squat---32---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/hIPuWpyu.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/hIPuWpyu-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/hIPuWpyu-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Round 2",
+                  "summaryHeading": "Divide & conquer",
+                  "summary": "Control your pace and form for maximum benefits.",
+                  "exercises": [
+                    {
+                      "contentId": 14453,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15720,
+                      "title": "Bulgarian split squat (right)",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 10,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landmob-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landdesk-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/portmob-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/portdesk-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapedesktop1x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapedesktop2x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapewidedesktop1x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapewidedesktop2x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapemobile1x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapemobile2x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapemobile3x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/ZWgNSXvz.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/ZWgNSXvz-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/ZWgNSXvz-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14452,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15720,
+                      "title": "Bulgarian split squat (left)",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landmob-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landdesk-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/portmob-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/portdesk-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapedesktop1x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapedesktop2x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapewidedesktop1x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapewidedesktop2x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapemobile1x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapemobile2x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapemobile3x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/GPO5x1MQ.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/GPO5x1MQ-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/GPO5x1MQ-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14453,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15720,
+                      "title": "Bulgarian split squat (right)",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 10,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landmob-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landdesk-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/portmob-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/portdesk-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapedesktop1x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapedesktop2x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapewidedesktop1x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapewidedesktop2x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapemobile1x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapemobile2x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapemobile3x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/ZWgNSXvz.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/ZWgNSXvz-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/ZWgNSXvz-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14452,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15720,
+                      "title": "Bulgarian split squat (left)",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landmob-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landdesk-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/portmob-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/portdesk-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapedesktop1x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapedesktop2x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapewidedesktop1x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapewidedesktop2x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapemobile1x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapemobile2x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapemobile3x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/GPO5x1MQ.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/GPO5x1MQ-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/GPO5x1MQ-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14453,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15720,
+                      "title": "Bulgarian split squat (right)",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 10,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landmob-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landdesk-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/portmob-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/portdesk-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapedesktop1x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapedesktop2x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapewidedesktop1x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapewidedesktop2x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapemobile1x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapemobile2x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapemobile3x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/ZWgNSXvz.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/ZWgNSXvz-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/ZWgNSXvz-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14452,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15720,
+                      "title": "Bulgarian split squat (left)",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landmob-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landdesk-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/portmob-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/portdesk-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapedesktop1x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapedesktop2x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapewidedesktop1x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapewidedesktop2x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapemobile1x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapemobile2x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapemobile3x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/GPO5x1MQ.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/GPO5x1MQ-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/GPO5x1MQ-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14453,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15720,
+                      "title": "Bulgarian split squat (right)",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 10,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landmob-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landdesk-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/portmob-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/portdesk-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapedesktop1x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapedesktop2x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapewidedesktop1x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapewidedesktop2x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapemobile1x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapemobile2x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14453/images/landscapemobile3x-cp---bulgarian-split-squat-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/ZWgNSXvz.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/ZWgNSXvz-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/ZWgNSXvz-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14452,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15720,
+                      "title": "Bulgarian split squat (left)",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landmob-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landdesk-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/portmob-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/portdesk-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapedesktop1x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapedesktop2x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapewidedesktop1x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapewidedesktop2x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapemobile1x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapemobile2x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14452/images/landscapemobile3x-cp---bulgarian-split-squat-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/GPO5x1MQ.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/GPO5x1MQ-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/GPO5x1MQ-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Round 3",
+                  "summaryHeading": "Thrusters on",
+                  "summary": "Amp up the strength in your glutes.",
+                  "exercises": [
+                    {
+                      "contentId": 14370,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15905,
+                      "title": "Barbell single-leg hip thrust (right)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 10,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landmob-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landdesk-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/portmob-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/portdesk-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapedesktop1x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapedesktop2x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapewidedesktop1x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapewidedesktop2x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapemobile1x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapemobile2x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapemobile3x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/H3ykp9Q9.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/H3ykp9Q9-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/H3ykp9Q9-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14366,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15905,
+                      "title": "Barbell single-leg hip thrust (left)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landmob-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landdesk-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/portmob-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/portdesk-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapedesktop1x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapedesktop2x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapewidedesktop1x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapewidedesktop2x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapemobile1x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapemobile2x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapemobile3x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/gPw4AeMU.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/gPw4AeMU-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/gPw4AeMU-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14370,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15905,
+                      "title": "Barbell single-leg hip thrust (right)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 10,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landmob-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landdesk-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/portmob-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/portdesk-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapedesktop1x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapedesktop2x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapewidedesktop1x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapewidedesktop2x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapemobile1x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapemobile2x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapemobile3x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/H3ykp9Q9.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/H3ykp9Q9-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/H3ykp9Q9-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14366,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15905,
+                      "title": "Barbell single-leg hip thrust (left)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landmob-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landdesk-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/portmob-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/portdesk-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapedesktop1x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapedesktop2x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapewidedesktop1x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapewidedesktop2x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapemobile1x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapemobile2x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapemobile3x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/gPw4AeMU.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/gPw4AeMU-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/gPw4AeMU-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14370,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15905,
+                      "title": "Barbell single-leg hip thrust (right)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 10,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landmob-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landdesk-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/portmob-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/portdesk-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapedesktop1x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapedesktop2x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapewidedesktop1x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapewidedesktop2x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapemobile1x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapemobile2x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14370/images/landscapemobile3x-cp---barbell-single-leg-hip-thrust-right---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/H3ykp9Q9.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/H3ykp9Q9-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/H3ykp9Q9-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14366,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15905,
+                      "title": "Barbell single-leg hip thrust (left)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landmob-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landdesk-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/portmob-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/portdesk-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapedesktop1x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapedesktop2x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapewidedesktop1x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapewidedesktop2x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapemobile1x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapemobile2x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14366/images/landscapemobile3x-cp---barbell-single-leg-hip-thrust-left---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/gPw4AeMU.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/gPw4AeMU-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/gPw4AeMU-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Round 4",
+                  "summaryHeading": "Dirty dozen",
+                  "summary": "Big reps to put the power into your thighs and calves.",
+                  "exercises": [
+                    {
+                      "contentId": 19706,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15172,
+                      "title": "Leg extension",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 10,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landmob-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landdesk-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/portmob-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/portdesk-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapedesktop1x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapedesktop2x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapewidedesktop1x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapewidedesktop2x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapemobile1x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapemobile2x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapemobile3x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/kTRStxwZ.m3u8"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://cdn.jwplayer.com/videos/kTRStxwZ-tcsSlRd8.mp4"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://cdn.jwplayer.com/videos/kTRStxwZ-ryqiVsBL.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 19708,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15173,
+                      "title": "Machine calf raise",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landmob-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landdesk-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/portmob-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/portdesk-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapedesktop1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapedesktop2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapewidedesktop1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapewidedesktop2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile3x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/nlxQBf6K.m3u8"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://cdn.jwplayer.com/videos/nlxQBf6K-tcsSlRd8.mp4"
+                        },
+                        {
+                          "mediaType": 1,
+                          "value": "https://cdn.jwplayer.com/videos/nlxQBf6K-ryqiVsBL.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 19706,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15172,
+                      "title": "Leg extension",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 10,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landmob-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landdesk-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/portmob-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/portdesk-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapedesktop1x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapedesktop2x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapewidedesktop1x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapewidedesktop2x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapemobile1x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapemobile2x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapemobile3x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/kTRStxwZ.m3u8"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://cdn.jwplayer.com/videos/kTRStxwZ-tcsSlRd8.mp4"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://cdn.jwplayer.com/videos/kTRStxwZ-ryqiVsBL.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 19708,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15173,
+                      "title": "Machine calf raise",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landmob-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landdesk-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/portmob-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/portdesk-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapedesktop1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapedesktop2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapewidedesktop1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapewidedesktop2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile3x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/nlxQBf6K.m3u8"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://cdn.jwplayer.com/videos/nlxQBf6K-tcsSlRd8.mp4"
+                        },
+                        {
+                          "mediaType": 1,
+                          "value": "https://cdn.jwplayer.com/videos/nlxQBf6K-ryqiVsBL.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 19706,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15172,
+                      "title": "Leg extension",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 10,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landmob-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landdesk-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/portmob-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/portdesk-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapedesktop1x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapedesktop2x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapewidedesktop1x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapewidedesktop2x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapemobile1x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapemobile2x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/20000/19706/images/landscapemobile3x-cp---leg-extension---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/kTRStxwZ.m3u8"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://cdn.jwplayer.com/videos/kTRStxwZ-tcsSlRd8.mp4"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://cdn.jwplayer.com/videos/kTRStxwZ-ryqiVsBL.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 19708,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15173,
+                      "title": "Machine calf raise",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 0,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landmob-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landdesk-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/portmob-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/portdesk-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapedesktop1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapedesktop2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapewidedesktop1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapewidedesktop2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile3x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/nlxQBf6K.m3u8"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://cdn.jwplayer.com/videos/nlxQBf6K-tcsSlRd8.mp4"
+                        },
+                        {
+                          "mediaType": 1,
+                          "value": "https://cdn.jwplayer.com/videos/nlxQBf6K-ryqiVsBL.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                }
+              ],
+              "imageList": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "canFavourite": false,
+  "seoContent": []
+}

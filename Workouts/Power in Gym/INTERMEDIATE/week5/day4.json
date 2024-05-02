@@ -1,0 +1,2111 @@
+{
+  "contentId": 16259,
+  "subContentId": 0,
+  "title": null,
+  "summary": null,
+  "urlPartial": "power-in-gym-full-throttle",
+  "sets": [
+    {
+      "title": "Full throttle",
+      "summary": "Go full-body and full throttle to ensure you don't miss a muscle.",
+      "buttonText": "Start",
+      "subTitle": "Centr Power in Gym: Intermediate week 4",
+      "setTypeLookupId": 1,
+      "appleWorkoutTypeLookupId": 50,
+      "imageList": {
+        "landscapewidemobile1x": {
+          "url": "https://cdn.centr.com/content/17000/16259/images/landscapewidemobile1x-centrpower---int---p2w4w5w6d5---169---v2.jpg",
+          "altText": null
+        },
+        "landscapewidemobile2x": {
+          "url": "https://cdn.centr.com/content/17000/16259/images/landscapewidemobile2x-centrpower---int---p2w4w5w6d5---169---v2.jpg",
+          "altText": null
+        },
+        "landscapewidemobile3x": {
+          "url": "https://cdn.centr.com/content/17000/16259/images/landscapewidemobile3x-centrpower---int---p2w4w5w6d5---169---v2.jpg",
+          "altText": null
+        },
+        "landscapewidedesktop1x": {
+          "url": "https://cdn.centr.com/content/17000/16259/images/landscapewidedesktop1x-centrpower---int---p2w4w5w6d5---169---v2.jpg",
+          "altText": null
+        },
+        "landscapewidedesktop2x": {
+          "url": "https://cdn.centr.com/content/17000/16259/images/landscapewidedesktop2x-centrpower---int---p2w4w5w6d5---169---v2.jpg",
+          "altText": null
+        },
+        "portrait1x": {
+          "url": "https://cdn.centr.com/content/17000/16259/images/portrait1x-centrpower---int---p2w4w5w6d5---34.jpg",
+          "altText": null
+        },
+        "portrait2x": {
+          "url": "https://cdn.centr.com/content/17000/16259/images/portrait2x-centrpower---int---p2w4w5w6d5---34.jpg",
+          "altText": null
+        },
+        "portrait3x": {
+          "url": "https://cdn.centr.com/content/17000/16259/images/portrait3x-centrpower---int---p2w4w5w6d5---34.jpg",
+          "altText": null
+        }
+      },
+      "levels": [
+        {
+          "levelLookupId": 0,
+          "durationInSeconds": 35,
+          "equipment": [
+            {
+              "id": 194,
+              "name": "Bench (incline)"
+            },
+            {
+              "id": 313,
+              "name": "Calf raise machine"
+            },
+            {
+              "id": 138,
+              "name": "Dumbbells"
+            }
+          ],
+          "targets": [
+            {
+              "id": 164,
+              "name": "Full body"
+            }
+          ],
+          "workouts": [
+            {
+              "mappingId": "de6e2496-fe73-e1d8-8673-0dc31a6d5e72",
+              "exerciseIndex": 0,
+              "title": "Workout",
+              "introText": "<p>There are only 2 rounds in this workout, but you'll be doing big reps in even bigger supersets to get your full body pumping.</p><br>\n\n<p>Get your form for these new moves down using the <a href=\"/article/15394\">tutorial</a>.</p>",
+              "isDefault": true,
+              "media": [],
+              "groups": [
+                {
+                  "title": "Warm-up",
+                  "summaryHeading": "Get in the zone",
+                  "summary": "Get your muscles firing and ready to lift.",
+                  "exercises": [
+                    {
+                      "contentId": 14439,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15954,
+                      "title": "Dumbbell single-arm seated press left (25% lifting weight)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 30,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14439/images/landmob-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14439/images/landdesk-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14439/images/portmob-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14439/images/portdesk-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14439/images/landscapedesktop1x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14439/images/landscapedesktop2x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14439/images/landscapewidedesktop1x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14439/images/landscapewidedesktop2x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14439/images/landscapemobile1x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14439/images/landscapemobile2x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14439/images/landscapemobile3x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/DDLA8xPe.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/DDLA8xPe-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/DDLA8xPe-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14443,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15954,
+                      "title": "Dumbbell single-arm seated press right (25% lifting weight)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 30,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14443/images/landmob-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14443/images/landdesk-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14443/images/portmob-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14443/images/portdesk-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14443/images/landscapedesktop1x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14443/images/landscapedesktop2x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14443/images/landscapewidedesktop1x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14443/images/landscapewidedesktop2x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14443/images/landscapemobile1x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14443/images/landscapemobile2x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14443/images/landscapemobile3x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/7xOn0G6i.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/7xOn0G6i-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/7xOn0G6i-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14440,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15955,
+                      "title": "Dumbbell single-arm seated press left (50% lifting weight)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 30,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14440/images/landmob-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14440/images/landdesk-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14440/images/portmob-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14440/images/portdesk-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14440/images/landscapedesktop1x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14440/images/landscapedesktop2x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14440/images/landscapewidedesktop1x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14440/images/landscapewidedesktop2x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14440/images/landscapemobile1x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14440/images/landscapemobile2x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14440/images/landscapemobile3x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/DDLA8xPe.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/DDLA8xPe-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/DDLA8xPe-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14444,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15955,
+                      "title": "Dumbbell single-arm seated press right (50% lifting weight)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 30,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14444/images/landmob-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14444/images/landdesk-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14444/images/portmob-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14444/images/portdesk-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14444/images/landscapedesktop1x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14444/images/landscapedesktop2x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14444/images/landscapewidedesktop1x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14444/images/landscapewidedesktop2x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14444/images/landscapemobile1x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14444/images/landscapemobile2x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14444/images/landscapemobile3x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/7xOn0G6i.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/7xOn0G6i-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/7xOn0G6i-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14441,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15956,
+                      "title": "Dumbbell single-arm seated press left (75% lifting weight)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 30,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14441/images/landmob-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14441/images/landdesk-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14441/images/portmob-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14441/images/portdesk-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14441/images/landscapedesktop1x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14441/images/landscapedesktop2x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14441/images/landscapewidedesktop1x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14441/images/landscapewidedesktop2x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14441/images/landscapemobile1x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14441/images/landscapemobile2x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14441/images/landscapemobile3x-cp---dumbbell-single-arm-seated-press-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/DDLA8xPe.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/DDLA8xPe-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/DDLA8xPe-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14445,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15956,
+                      "title": "Dumbbell single-arm seated press right (75% lifting weight)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 30,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14445/images/landmob-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14445/images/landdesk-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14445/images/portmob-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14445/images/portdesk-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14445/images/landscapedesktop1x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14445/images/landscapedesktop2x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14445/images/landscapewidedesktop1x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14445/images/landscapewidedesktop2x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14445/images/landscapemobile1x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14445/images/landscapemobile2x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14445/images/landscapemobile3x-cp---dumbbell-single-arm-seated-press-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/7xOn0G6i.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/7xOn0G6i-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/7xOn0G6i-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Round 1",
+                  "summaryHeading": "Go big",
+                  "summary": "Tempo is essential with high reps and three lifts back to back, so count it out.",
+                  "exercises": [
+                    {
+                      "contentId": 14410,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15957,
+                      "title": "Dumbbell single-arm shoulder press (left)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 0,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landmob-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landdesk-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/portmob-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/portdesk-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapedesktop1x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapedesktop2x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapewidedesktop1x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapewidedesktop2x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapemobile1x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapemobile2x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapemobile3x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/1tPIOJzu.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/1tPIOJzu-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/1tPIOJzu-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14411,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15957,
+                      "title": "Dumbbell single-arm shoulder press (right)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landmob-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landdesk-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/portmob-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/portdesk-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapedesktop1x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapedesktop2x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapewidedesktop1x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapewidedesktop2x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapemobile1x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapemobile2x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapemobile3x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/EByMFO2U.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/EByMFO2U-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/EByMFO2U-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14432,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 14977,
+                      "title": "Dumbbell lateral raise",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landmob-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landdesk-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/portmob-cp---dumbbell-lateral-raise---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/portdesk-cp---dumbbell-lateral-raise---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapedesktop1x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapedesktop2x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapewidedesktop1x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapewidedesktop2x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapemobile1x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapemobile2x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapemobile3x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/OREGCd7D.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/OREGCd7D-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/OREGCd7D-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14433,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15935,
+                      "title": "Dumbbell rear raise",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landmob-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landdesk-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/portmob-cp---dumbbell-rear-raise---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/portdesk-cp---dumbbell-rear-raise---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapedesktop1x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapedesktop2x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapewidedesktop1x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapewidedesktop2x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapemobile1x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapemobile2x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapemobile3x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/Cq72jNuA.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/Cq72jNuA-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/Cq72jNuA-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14410,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15957,
+                      "title": "Dumbbell single-arm shoulder press (left)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 0,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landmob-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landdesk-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/portmob-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/portdesk-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapedesktop1x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapedesktop2x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapewidedesktop1x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapewidedesktop2x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapemobile1x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapemobile2x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapemobile3x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/1tPIOJzu.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/1tPIOJzu-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/1tPIOJzu-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14411,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15957,
+                      "title": "Dumbbell single-arm shoulder press (right)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landmob-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landdesk-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/portmob-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/portdesk-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapedesktop1x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapedesktop2x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapewidedesktop1x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapewidedesktop2x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapemobile1x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapemobile2x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapemobile3x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/EByMFO2U.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/EByMFO2U-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/EByMFO2U-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14432,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 14977,
+                      "title": "Dumbbell lateral raise",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landmob-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landdesk-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/portmob-cp---dumbbell-lateral-raise---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/portdesk-cp---dumbbell-lateral-raise---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapedesktop1x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapedesktop2x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapewidedesktop1x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapewidedesktop2x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapemobile1x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapemobile2x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapemobile3x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/OREGCd7D.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/OREGCd7D-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/OREGCd7D-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14433,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15935,
+                      "title": "Dumbbell rear raise",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landmob-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landdesk-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/portmob-cp---dumbbell-rear-raise---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/portdesk-cp---dumbbell-rear-raise---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapedesktop1x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapedesktop2x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapewidedesktop1x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapewidedesktop2x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapemobile1x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapemobile2x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapemobile3x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/Cq72jNuA.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/Cq72jNuA-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/Cq72jNuA-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14410,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15957,
+                      "title": "Dumbbell single-arm shoulder press (left)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 0,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landmob-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landdesk-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/portmob-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/portdesk-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapedesktop1x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapedesktop2x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapewidedesktop1x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapewidedesktop2x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapemobile1x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapemobile2x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14410/images/landscapemobile3x-cp---dumbbell-single-arm-shoulder-press-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/1tPIOJzu.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/1tPIOJzu-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/1tPIOJzu-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14411,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15957,
+                      "title": "Dumbbell single-arm shoulder press (right)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landmob-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landdesk-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/portmob-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/portdesk-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapedesktop1x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapedesktop2x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapewidedesktop1x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapewidedesktop2x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapemobile1x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapemobile2x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14411/images/landscapemobile3x-cp---dumbbell-single-arm-shoulder-press-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/EByMFO2U.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/EByMFO2U-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/EByMFO2U-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14432,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 14977,
+                      "title": "Dumbbell lateral raise",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landmob-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landdesk-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/portmob-cp---dumbbell-lateral-raise---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/portdesk-cp---dumbbell-lateral-raise---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapedesktop1x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapedesktop2x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapewidedesktop1x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapewidedesktop2x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapemobile1x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapemobile2x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14432/images/landscapemobile3x-cp---dumbbell-lateral-raise---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/OREGCd7D.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/OREGCd7D-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/OREGCd7D-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14433,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15935,
+                      "title": "Dumbbell rear raise",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landmob-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landdesk-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/portmob-cp---dumbbell-rear-raise---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/portdesk-cp---dumbbell-rear-raise---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapedesktop1x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapedesktop2x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapewidedesktop1x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapewidedesktop2x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapemobile1x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapemobile2x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14433/images/landscapemobile3x-cp---dumbbell-rear-raise---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/Cq72jNuA.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/Cq72jNuA-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/Cq72jNuA-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Round 2",
+                  "summaryHeading": "Get down",
+                  "summary": "Hit your lower body to build the burn in your glutes and calves.",
+                  "exercises": [
+                    {
+                      "contentId": 14550,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 14933,
+                      "title": "Alternating curtsy lunge",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landmob-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landdesk-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/portmob-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/portdesk-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapedesktop1x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapedesktop2x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapewidedesktop1x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapewidedesktop2x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapemobile1x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapemobile2x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapemobile3x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/Q2IhNpbI.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/Q2IhNpbI-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/Q2IhNpbI-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14549,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15689,
+                      "title": "Alternating side lunge",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landmob-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landdesk-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/portmob-cp---alternating-side-lunge---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/portdesk-cp---alternating-side-lunge---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapedesktop1x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapedesktop2x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapewidedesktop1x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapewidedesktop2x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapemobile1x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapemobile2x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapemobile3x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/9kFj4Jae.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/9kFj4Jae-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/9kFj4Jae-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 19708,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15173,
+                      "title": "Machine calf raise",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landmob-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landdesk-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/portmob-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/portdesk-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapedesktop1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapedesktop2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapewidedesktop1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapewidedesktop2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile3x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/nlxQBf6K.m3u8"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://cdn.jwplayer.com/videos/nlxQBf6K-tcsSlRd8.mp4"
+                        },
+                        {
+                          "mediaType": 1,
+                          "value": "https://cdn.jwplayer.com/videos/nlxQBf6K-ryqiVsBL.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14550,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 14933,
+                      "title": "Alternating curtsy lunge",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landmob-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landdesk-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/portmob-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/portdesk-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapedesktop1x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapedesktop2x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapewidedesktop1x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapewidedesktop2x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapemobile1x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapemobile2x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapemobile3x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/Q2IhNpbI.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/Q2IhNpbI-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/Q2IhNpbI-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14549,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15689,
+                      "title": "Alternating side lunge",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landmob-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landdesk-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/portmob-cp---alternating-side-lunge---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/portdesk-cp---alternating-side-lunge---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapedesktop1x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapedesktop2x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapewidedesktop1x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapewidedesktop2x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapemobile1x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapemobile2x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapemobile3x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/9kFj4Jae.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/9kFj4Jae-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/9kFj4Jae-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 19708,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15173,
+                      "title": "Machine calf raise",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landmob-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landdesk-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/portmob-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/portdesk-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapedesktop1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapedesktop2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapewidedesktop1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapewidedesktop2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile3x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/nlxQBf6K.m3u8"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://cdn.jwplayer.com/videos/nlxQBf6K-tcsSlRd8.mp4"
+                        },
+                        {
+                          "mediaType": 1,
+                          "value": "https://cdn.jwplayer.com/videos/nlxQBf6K-ryqiVsBL.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14550,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 14933,
+                      "title": "Alternating curtsy lunge",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landmob-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landdesk-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/portmob-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/portdesk-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapedesktop1x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapedesktop2x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapewidedesktop1x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapewidedesktop2x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapemobile1x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapemobile2x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14550/images/landscapemobile3x-cp---alternating-curtsy-lunge---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/Q2IhNpbI.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/Q2IhNpbI-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/Q2IhNpbI-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14549,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15689,
+                      "title": "Alternating side lunge",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 20,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landmob-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landdesk-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/portmob-cp---alternating-side-lunge---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/portdesk-cp---alternating-side-lunge---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapedesktop1x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapedesktop2x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapewidedesktop1x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapewidedesktop2x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapemobile1x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapemobile2x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14549/images/landscapemobile3x-cp---alternating-side-lunge---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/9kFj4Jae.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/9kFj4Jae-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/9kFj4Jae-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 19708,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15173,
+                      "title": "Machine calf raise",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 0,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landmob-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landdesk-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/portmob-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/portdesk-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapedesktop1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapedesktop2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapewidedesktop1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapewidedesktop2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile1x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile2x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/20000/19708/images/landscapemobile3x-cp---machine-calf-raise---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/nlxQBf6K.m3u8"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://cdn.jwplayer.com/videos/nlxQBf6K-tcsSlRd8.mp4"
+                        },
+                        {
+                          "mediaType": 1,
+                          "value": "https://cdn.jwplayer.com/videos/nlxQBf6K-ryqiVsBL.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                }
+              ],
+              "imageList": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "canFavourite": false,
+  "seoContent": []
+}

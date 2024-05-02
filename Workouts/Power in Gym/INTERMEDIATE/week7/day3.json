@@ -1,0 +1,2148 @@
+{
+  "contentId": 16280,
+  "subContentId": 0,
+  "title": null,
+  "summary": null,
+  "urlPartial": "power-in-gym-back-&-bicep-pump-up",
+  "sets": [
+    {
+      "title": "Back & bicep pump up",
+      "summary": "Put some power into your lifts to bulk up your back and arms.",
+      "buttonText": "Start",
+      "subTitle": "Centr Power in Gym: Intermediate week 7",
+      "setTypeLookupId": 1,
+      "appleWorkoutTypeLookupId": 50,
+      "imageList": {
+        "landscapewidemobile1x": {
+          "url": "https://cdn.centr.com/content/17000/16280/images/landscapewidemobile1x-centrpower---int---p3w7w8w9d4---169---v2.jpg",
+          "altText": null
+        },
+        "landscapewidemobile2x": {
+          "url": "https://cdn.centr.com/content/17000/16280/images/landscapewidemobile2x-centrpower---int---p3w7w8w9d4---169---v2.jpg",
+          "altText": null
+        },
+        "landscapewidemobile3x": {
+          "url": "https://cdn.centr.com/content/17000/16280/images/landscapewidemobile3x-centrpower---int---p3w7w8w9d4---169---v2.jpg",
+          "altText": null
+        },
+        "landscapewidedesktop1x": {
+          "url": "https://cdn.centr.com/content/17000/16280/images/landscapewidedesktop1x-centrpower---int---p3w7w8w9d4---169---v2.jpg",
+          "altText": null
+        },
+        "landscapewidedesktop2x": {
+          "url": "https://cdn.centr.com/content/17000/16280/images/landscapewidedesktop2x-centrpower---int---p3w7w8w9d4---169---v2.jpg",
+          "altText": null
+        },
+        "portrait1x": {
+          "url": "https://cdn.centr.com/content/17000/16280/images/portrait1x-centrpower---int---p3w7w8w9d4---34---v2.jpg",
+          "altText": null
+        },
+        "portrait2x": {
+          "url": "https://cdn.centr.com/content/17000/16280/images/portrait2x-centrpower---int---p3w7w8w9d4---34---v2.jpg",
+          "altText": null
+        },
+        "portrait3x": {
+          "url": "https://cdn.centr.com/content/17000/16280/images/portrait3x-centrpower---int---p3w7w8w9d4---34---v2.jpg",
+          "altText": null
+        }
+      },
+      "levels": [
+        {
+          "levelLookupId": 0,
+          "durationInSeconds": 40,
+          "equipment": [
+            {
+              "id": 187,
+              "name": "Barbell"
+            },
+            {
+              "id": 194,
+              "name": "Bench (incline)"
+            },
+            {
+              "id": 227,
+              "name": "Cable machine"
+            },
+            {
+              "id": 138,
+              "name": "Dumbbells"
+            },
+            {
+              "id": 189,
+              "name": "Pull-up bar"
+            },
+            {
+              "id": 192,
+              "name": "Weight plate/s"
+            }
+          ],
+          "targets": [
+            {
+              "id": 203,
+              "name": "Back"
+            },
+            {
+              "id": 243,
+              "name": "Biceps"
+            }
+          ],
+          "workouts": [
+            {
+              "mappingId": "1a19be23-fc96-9822-9820-a21eaccdc863",
+              "exerciseIndex": 0,
+              "title": "Workout",
+              "introText": "<p>How does Chris get those thunderous arms? You're about to find out. This workout is loaded with new moves to get your back and biceps flying – make the <a href=\"/article/15409\">tutorial</a> your first stop.</p><br>\n\n<p>You'll be doing a lot of reps, so keep your form tight and make every single lift count.</p>",
+              "isDefault": true,
+              "media": [],
+              "groups": [
+                {
+                  "title": "Warm-up",
+                  "summaryHeading": "Get in the zone",
+                  "summary": "Get your upper body primed to hit the racks.",
+                  "exercises": [
+                    {
+                      "contentId": 14386,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 16000,
+                      "title": "Wide-grip deadlift - bar only",
+                      "durationInSeconds": 15,
+                      "timestamp": 0,
+                      "rest": 30,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14386/images/landmob-cp---wide-grip-deadlift---bar-only---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14386/images/landdesk-cp---wide-grip-deadlift---bar-only---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14386/images/portmob-cp---wide-grip-deadlift---bar-only---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14386/images/portdesk-cp---wide-grip-deadlift---bar-only---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14386/images/landscapedesktop1x-cp---wide-grip-deadlift---bar-only---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14386/images/landscapedesktop2x-cp---wide-grip-deadlift---bar-only---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14386/images/landscapewidedesktop1x-cp---wide-grip-deadlift---bar-only---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14386/images/landscapewidedesktop2x-cp---wide-grip-deadlift---bar-only---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14386/images/landscapemobile1x-cp---wide-grip-deadlift---bar-only---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14386/images/landscapemobile2x-cp---wide-grip-deadlift---bar-only---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14386/images/landscapemobile3x-cp---wide-grip-deadlift---bar-only---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/OtVCyJfM.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/OtVCyJfM-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/OtVCyJfM-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14383,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 16001,
+                      "title": "Wide-grip deadlift (25% lifting weight)",
+                      "durationInSeconds": 12,
+                      "timestamp": 0,
+                      "rest": 30,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14383/images/landmob-cp---wide-grip-deadlift---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14383/images/landdesk-cp---wide-grip-deadlift---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14383/images/portmob-cp---wide-grip-deadlift---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14383/images/portdesk-cp---wide-grip-deadlift---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14383/images/landscapedesktop1x-cp---wide-grip-deadlift---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14383/images/landscapedesktop2x-cp---wide-grip-deadlift---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14383/images/landscapewidedesktop1x-cp---wide-grip-deadlift---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14383/images/landscapewidedesktop2x-cp---wide-grip-deadlift---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14383/images/landscapemobile1x-cp---wide-grip-deadlift---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14383/images/landscapemobile2x-cp---wide-grip-deadlift---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14383/images/landscapemobile3x-cp---wide-grip-deadlift---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/tT070dHM.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/tT070dHM-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/tT070dHM-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14384,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 16002,
+                      "title": "Wide-grip deadlift (50% lifting weight)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 30,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14384/images/landmob-cp---wide-grip-deadlift---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14384/images/landdesk-cp---wide-grip-deadlift---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14384/images/portmob-cp---wide-grip-deadlift---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14384/images/portdesk-cp---wide-grip-deadlift---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14384/images/landscapedesktop1x-cp---wide-grip-deadlift---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14384/images/landscapedesktop2x-cp---wide-grip-deadlift---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14384/images/landscapewidedesktop1x-cp---wide-grip-deadlift---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14384/images/landscapewidedesktop2x-cp---wide-grip-deadlift---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14384/images/landscapemobile1x-cp---wide-grip-deadlift---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14384/images/landscapemobile2x-cp---wide-grip-deadlift---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14384/images/landscapemobile3x-cp---wide-grip-deadlift---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/tT070dHM.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/tT070dHM-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/tT070dHM-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Round 1",
+                  "summaryHeading": "Release the power",
+                  "summary": "This is a big lift and you'll be doing 5 sets, so pace yourself and make sure your form is on point.",
+                  "exercises": [
+                    {
+                      "contentId": 16194,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 14827,
+                      "title": "Barbell full deadlift",
+                      "durationInSeconds": 6,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landmob-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landdesk-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/portmob-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/portdesk-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapedesktop1x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapedesktop2x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapewidedesktop1x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapewidedesktop2x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapemobile1x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapemobile2x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapemobile3x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/YsO0Mlkq.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/YsO0Mlkq-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/YsO0Mlkq-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 16194,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 14827,
+                      "title": "Barbell full deadlift",
+                      "durationInSeconds": 6,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landmob-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landdesk-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/portmob-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/portdesk-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapedesktop1x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapedesktop2x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapewidedesktop1x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapewidedesktop2x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapemobile1x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapemobile2x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapemobile3x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/YsO0Mlkq.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/YsO0Mlkq-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/YsO0Mlkq-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 16194,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 14827,
+                      "title": "Barbell full deadlift",
+                      "durationInSeconds": 6,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landmob-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landdesk-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/portmob-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/portdesk-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapedesktop1x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapedesktop2x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapewidedesktop1x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapewidedesktop2x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapemobile1x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapemobile2x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapemobile3x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/YsO0Mlkq.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/YsO0Mlkq-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/YsO0Mlkq-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 16194,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 14827,
+                      "title": "Barbell full deadlift",
+                      "durationInSeconds": 6,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landmob-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landdesk-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/portmob-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/portdesk-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapedesktop1x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapedesktop2x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapewidedesktop1x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapewidedesktop2x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapemobile1x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapemobile2x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapemobile3x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/YsO0Mlkq.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/YsO0Mlkq-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/YsO0Mlkq-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 16194,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 14827,
+                      "title": "Barbell full deadlift",
+                      "durationInSeconds": 6,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landmob-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landdesk-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/portmob-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/portdesk-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapedesktop1x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapedesktop2x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapewidedesktop1x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapewidedesktop2x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapemobile1x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapemobile2x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/17000/16194/images/landscapemobile3x-cp---barbell-full-deadlift---169---v2.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/YsO0Mlkq.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/YsO0Mlkq-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/YsO0Mlkq-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Round 2",
+                  "summaryHeading": "Only way is up",
+                  "summary": "If you speed through your first set, add weight to up the challenge.",
+                  "exercises": [
+                    {
+                      "contentId": 14548,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15806,
+                      "title": "Chin-up",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landmob-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landdesk-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/portmob-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/portdesk-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapedesktop1x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapedesktop2x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapewidedesktop1x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapewidedesktop2x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapemobile1x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapemobile2x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapemobile3x-cp---chin-up---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/IEjrwnHH.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/IEjrwnHH-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/IEjrwnHH-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14548,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15806,
+                      "title": "Chin-up",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landmob-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landdesk-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/portmob-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/portdesk-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapedesktop1x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapedesktop2x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapewidedesktop1x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapewidedesktop2x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapemobile1x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapemobile2x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapemobile3x-cp---chin-up---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/IEjrwnHH.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/IEjrwnHH-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/IEjrwnHH-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14548,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15806,
+                      "title": "Chin-up",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landmob-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landdesk-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/portmob-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/portdesk-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapedesktop1x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapedesktop2x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapewidedesktop1x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapewidedesktop2x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapemobile1x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapemobile2x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapemobile3x-cp---chin-up---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/IEjrwnHH.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/IEjrwnHH-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/IEjrwnHH-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14548,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15806,
+                      "title": "Chin-up",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landmob-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landdesk-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/portmob-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/portdesk-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapedesktop1x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapedesktop2x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapewidedesktop1x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapewidedesktop2x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapemobile1x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapemobile2x-cp---chin-up---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14548/images/landscapemobile3x-cp---chin-up---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/IEjrwnHH.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/IEjrwnHH-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/IEjrwnHH-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Round 3",
+                  "summaryHeading": "Pull it off",
+                  "summary": "Engage your core and get pulling to work your lats, traps, biceps and more.",
+                  "exercises": [
+                    {
+                      "contentId": 14507,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15913,
+                      "title": "Cable seated high pull",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landmob-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landdesk-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/portmob-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/portdesk-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapedesktop1x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapedesktop2x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapewidedesktop1x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapewidedesktop2x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapemobile1x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapemobile2x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapemobile3x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/JNwS3Jam.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/JNwS3Jam-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/JNwS3Jam-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14507,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15913,
+                      "title": "Cable seated high pull",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landmob-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landdesk-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/portmob-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/portdesk-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapedesktop1x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapedesktop2x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapewidedesktop1x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapewidedesktop2x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapemobile1x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapemobile2x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapemobile3x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/JNwS3Jam.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/JNwS3Jam-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/JNwS3Jam-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14507,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15913,
+                      "title": "Cable seated high pull",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landmob-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landdesk-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/portmob-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/portdesk-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapedesktop1x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapedesktop2x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapewidedesktop1x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapewidedesktop2x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapemobile1x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapemobile2x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14507/images/landscapemobile3x-cp---cable-seated-high-pull---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/JNwS3Jam.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/JNwS3Jam-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/JNwS3Jam-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Round 4",
+                  "summaryHeading": "Go big",
+                  "summary": "There's a new grip in town, so be sure to run through the tutorial for these single-arm rows.",
+                  "exercises": [
+                    {
+                      "contentId": 14426,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15988,
+                      "title": "Single-arm pronated-grip row (left)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 0,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landmob-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landdesk-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/portmob-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/portdesk-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapedesktop1x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapedesktop2x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapewidedesktop1x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapewidedesktop2x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapemobile1x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapemobile2x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapemobile3x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/fUgdG3sA.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/fUgdG3sA-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/fUgdG3sA-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14427,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15988,
+                      "title": "Single-arm pronated-grip row (right)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landmob-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landdesk-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/portmob-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/portdesk-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapedesktop1x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapedesktop2x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapewidedesktop1x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapewidedesktop2x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapemobile1x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapemobile2x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapemobile3x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/8BP9pqOp.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/8BP9pqOp-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/8BP9pqOp-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14426,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15988,
+                      "title": "Single-arm pronated-grip row (left)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 0,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landmob-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landdesk-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/portmob-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/portdesk-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapedesktop1x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapedesktop2x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapewidedesktop1x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapewidedesktop2x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapemobile1x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapemobile2x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapemobile3x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/fUgdG3sA.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/fUgdG3sA-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/fUgdG3sA-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14427,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15988,
+                      "title": "Single-arm pronated-grip row (right)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landmob-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landdesk-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/portmob-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/portdesk-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapedesktop1x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapedesktop2x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapewidedesktop1x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapewidedesktop2x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapemobile1x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapemobile2x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapemobile3x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/8BP9pqOp.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/8BP9pqOp-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/8BP9pqOp-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14426,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15988,
+                      "title": "Single-arm pronated-grip row (left)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 0,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landmob-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landdesk-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/portmob-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/portdesk-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapedesktop1x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapedesktop2x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapewidedesktop1x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapewidedesktop2x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapemobile1x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapemobile2x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14426/images/landscapemobile3x-cp---single-arm-pronated-grip-row-left---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/fUgdG3sA.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/fUgdG3sA-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/fUgdG3sA-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14427,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15988,
+                      "title": "Single-arm pronated-grip row (right)",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landmob-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landdesk-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/portmob-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/portdesk-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapedesktop1x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapedesktop2x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapewidedesktop1x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapewidedesktop2x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapemobile1x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapemobile2x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14427/images/landscapemobile3x-cp---single-arm-pronated-grip-row-right---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/8BP9pqOp.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/8BP9pqOp-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/8BP9pqOp-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                },
+                {
+                  "title": "Round 5",
+                  "summaryHeading": "Bicep burner",
+                  "summary": "Focus on tempo to maximize time under tension.",
+                  "exercises": [
+                    {
+                      "contentId": 14428,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15927,
+                      "title": "Dumbbell incline bicep curl",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 0,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landmob-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landdesk-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/portmob-cp---dumbbell-incline-bicep-curl---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/portdesk-cp---dumbbell-incline-bicep-curl---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapedesktop1x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapedesktop2x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapewidedesktop1x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapewidedesktop2x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapemobile1x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapemobile2x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapemobile3x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/ak2DOXsA.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/ak2DOXsA-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/ak2DOXsA-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14449,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15039,
+                      "title": "Dumbbell hammer curls",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landmob-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landdesk-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/portmob-cp---dumbbell-hammer-curls---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/portdesk-cp---dumbbell-hammer-curls---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapedesktop1x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapedesktop2x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapewidedesktop1x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapewidedesktop2x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapemobile1x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapemobile2x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapemobile3x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/ls5GsdV7.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/ls5GsdV7-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/ls5GsdV7-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14428,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15927,
+                      "title": "Dumbbell incline bicep curl",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 0,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landmob-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landdesk-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/portmob-cp---dumbbell-incline-bicep-curl---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/portdesk-cp---dumbbell-incline-bicep-curl---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapedesktop1x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapedesktop2x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapewidedesktop1x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapewidedesktop2x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapemobile1x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapemobile2x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapemobile3x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/ak2DOXsA.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/ak2DOXsA-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/ak2DOXsA-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14449,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15039,
+                      "title": "Dumbbell hammer curls",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 60,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landmob-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landdesk-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/portmob-cp---dumbbell-hammer-curls---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/portdesk-cp---dumbbell-hammer-curls---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapedesktop1x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapedesktop2x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapewidedesktop1x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapewidedesktop2x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapemobile1x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapemobile2x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapemobile3x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/ls5GsdV7.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/ls5GsdV7-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/ls5GsdV7-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14428,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15927,
+                      "title": "Dumbbell incline bicep curl",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 0,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landmob-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landdesk-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/portmob-cp---dumbbell-incline-bicep-curl---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/portdesk-cp---dumbbell-incline-bicep-curl---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapedesktop1x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapedesktop2x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapewidedesktop1x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapewidedesktop2x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapemobile1x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapemobile2x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14428/images/landscapemobile3x-cp---dumbbell-incline-bicep-curl---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/ak2DOXsA.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/ak2DOXsA-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/ak2DOXsA-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    },
+                    {
+                      "contentId": 14449,
+                      "contentTypeLookupId": 6,
+                      "exerciseTypeLookupId": 1,
+                      "exerciseLoggingTypeLookupId": 2,
+                      "mappingId": 0,
+                      "parentId": 15039,
+                      "title": "Dumbbell hammer curls",
+                      "durationInSeconds": 10,
+                      "timestamp": 0,
+                      "rest": 0,
+                      "imageList": {
+                        "landmob": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landmob-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landdesk-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "portmob": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/portmob-cp---dumbbell-hammer-curls---32.jpg",
+                          "altText": null
+                        },
+                        "portdesk": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/portdesk-cp---dumbbell-hammer-curls---32.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapedesktop1x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landscapedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapedesktop2x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop1x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapewidedesktop1x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landscapewidedesktop2x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapewidedesktop2x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile1x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapemobile1x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile2x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapemobile2x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        },
+                        "landscapemobile3x": {
+                          "url": "https://cdn.centr.com/content/15000/14449/images/landscapemobile3x-cp---dumbbell-hammer-curls---169.jpg",
+                          "altText": null
+                        }
+                      },
+                      "media": [
+                        {
+                          "mediaType": 106,
+                          "value": "https://cdn.jwplayer.com/manifests/ls5GsdV7.m3u8"
+                        },
+                        {
+                          "mediaType": 110,
+                          "value": "https://content.jwplatform.com/videos/ls5GsdV7-ryqiVsBL.mp4"
+                        },
+                        {
+                          "mediaType": 109,
+                          "value": "https://content.jwplatform.com/videos/ls5GsdV7-f9Vyd3qF.mp4"
+                        }
+                      ],
+                      "equipment": [],
+                      "targets": []
+                    }
+                  ]
+                }
+              ],
+              "imageList": null
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "canFavourite": false,
+  "seoContent": []
+}

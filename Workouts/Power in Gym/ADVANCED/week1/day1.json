@@ -1,0 +1,2146 @@
+{
+  "messages": [],
+  "result": {
+    "routine": {
+      "contentId": 16171,
+      "subContentId": 0,
+      "title": null,
+      "summary": null,
+      "urlPartial": "power-in-gym-chest-pumper",
+      "sets": [
+        {
+          "title": "Chest pumper",
+          "summary": "Work your pecs to build a baseline of strength and size in your chest.",
+          "buttonText": "Start",
+          "subTitle": "Centr Power in Gym: Advanced week 1",
+          "setTypeLookupId": 1,
+          "appleWorkoutTypeLookupId": 50,
+          "imageList": {
+            "landscapewidemobile1x": {
+              "url": "https://cdn.centr.com/content/17000/16171/images/landscapewidemobile1x-centrpower---adv---p1w1w2w3d1---169---v2.jpg",
+              "altText": null
+            },
+            "landscapewidemobile2x": {
+              "url": "https://cdn.centr.com/content/17000/16171/images/landscapewidemobile2x-centrpower---adv---p1w1w2w3d1---169---v2.jpg",
+              "altText": null
+            },
+            "landscapewidemobile3x": {
+              "url": "https://cdn.centr.com/content/17000/16171/images/landscapewidemobile3x-centrpower---adv---p1w1w2w3d1---169---v2.jpg",
+              "altText": null
+            },
+            "landscapewidedesktop1x": {
+              "url": "https://cdn.centr.com/content/17000/16171/images/landscapewidedesktop1x-centrpower---adv---p1w1w2w3d1---169---v2.jpg",
+              "altText": null
+            },
+            "landscapewidedesktop2x": {
+              "url": "https://cdn.centr.com/content/17000/16171/images/landscapewidedesktop2x-centrpower---adv---p1w1w2w3d1---169---v2.jpg",
+              "altText": null
+            },
+            "portrait1x": {
+              "url": "https://cdn.centr.com/content/17000/16171/images/portrait1x-centrpower---adv---p1w1w2w3d1---34.jpg",
+              "altText": null
+            },
+            "portrait2x": {
+              "url": "https://cdn.centr.com/content/17000/16171/images/portrait2x-centrpower---adv---p1w1w2w3d1---34.jpg",
+              "altText": null
+            },
+            "portrait3x": {
+              "url": "https://cdn.centr.com/content/17000/16171/images/portrait3x-centrpower---adv---p1w1w2w3d1---34.jpg",
+              "altText": null
+            }
+          },
+          "levels": [
+            {
+              "levelLookupId": 0,
+              "durationInSeconds": 35,
+              "equipment": [
+                {
+                  "id": 187,
+                  "name": "Barbell"
+                },
+                {
+                  "id": 194,
+                  "name": "Bench (incline)"
+                },
+                {
+                  "id": 227,
+                  "name": "Cable machine"
+                },
+                {
+                  "id": 195,
+                  "name": "Dip station"
+                },
+                {
+                  "id": 138,
+                  "name": "Dumbbells"
+                },
+                {
+                  "id": 254,
+                  "name": "Squat rack"
+                },
+                {
+                  "id": 192,
+                  "name": "Weight plate/s"
+                }
+              ],
+              "targets": [
+                {
+                  "id": 202,
+                  "name": "Chest"
+                }
+              ],
+              "workouts": [
+                {
+                  "mappingId": "fa1f3392-285f-13a4-9242-81d5057f0f1b",
+                  "exerciseIndex": 0,
+                  "title": "Workout",
+                  "introText": "<p>STOP! Read the <a href=\"/article/11535\">Centr Power Guide</a> for vital training information before you start.</p><br>\n\n<p>This workout is designed to build a baseline of strength and size in your chest.</p><br>\n\n<p>Get the form right by checking out the <a href=\"/article/15412\">exercise tutorial</a>.</p><br>\n\n<p>If you want to cool down after working out, you'll find the link to stretching sessions at the top of each week of workouts.</p>",
+                  "isDefault": true,
+                  "media": [],
+                  "groups": [
+                    {
+                      "title": "Warm-up",
+                      "summaryHeading": "Get in the zone",
+                      "summary": "Before you lift, limber up alongside Bobby. These movements will get your body in the zone for the hard work to come.",
+                      "exercises": [
+                        {
+                          "contentId": 14545,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 15330,
+                          "title": "Push-up",
+                          "durationInSeconds": 15,
+                          "timestamp": 0,
+                          "rest": 30,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/15000/14545/images/landmob-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14545/images/landdesk-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/15000/14545/images/portmob-cp---push-up---32.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14545/images/portdesk-cp---push-up---32.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14545/images/landscapedesktop1x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14545/images/landscapedesktop2x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14545/images/landscapewidedesktop1x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14545/images/landscapewidedesktop2x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/15000/14545/images/landscapemobile1x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/15000/14545/images/landscapemobile2x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/15000/14545/images/landscapemobile3x-cp---push-up---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/EKrZ1iti.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/EKrZ1iti-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/EKrZ1iti-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 14345,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 15890,
+                          "title": "Barbell flat bench press (25% lifting weight)",
+                          "durationInSeconds": 12,
+                          "timestamp": 0,
+                          "rest": 30,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/15000/14345/images/landmob-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14345/images/landdesk-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/15000/14345/images/portmob-cp---barbell-flat-bench-press---32.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14345/images/portdesk-cp---barbell-flat-bench-press---32.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14345/images/landscapedesktop1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14345/images/landscapedesktop2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14345/images/landscapewidedesktop1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14345/images/landscapewidedesktop2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/15000/14345/images/landscapemobile1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/15000/14345/images/landscapemobile2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/15000/14345/images/landscapemobile3x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/9GnGUPwg.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/9GnGUPwg-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/9GnGUPwg-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 14346,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 14812,
+                          "title": "Barbell flat bench press (50% lifting weight)",
+                          "durationInSeconds": 10,
+                          "timestamp": 0,
+                          "rest": 30,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/15000/14346/images/landmob-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14346/images/landdesk-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/15000/14346/images/portmob-cp---barbell-flat-bench-press---32.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14346/images/portdesk-cp---barbell-flat-bench-press---32.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14346/images/landscapedesktop1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14346/images/landscapedesktop2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14346/images/landscapewidedesktop1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14346/images/landscapewidedesktop2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/15000/14346/images/landscapemobile1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/15000/14346/images/landscapemobile2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/15000/14346/images/landscapemobile3x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/9GnGUPwg.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/9GnGUPwg-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/9GnGUPwg-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Round 1",
+                      "summaryHeading": "Hit the bench",
+                      "summary": "To build upper-body strength, you can't go past these moves.",
+                      "exercises": [
+                        {
+                          "contentId": 14344,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 14828,
+                          "title": "Barbell flat bench press",
+                          "durationInSeconds": 7,
+                          "timestamp": 0,
+                          "rest": 10,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landmob-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landdesk-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/portmob-cp---barbell-flat-bench-press---32.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/portdesk-cp---barbell-flat-bench-press---32.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapedesktop1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapedesktop2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapewidedesktop1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapewidedesktop2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapemobile1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapemobile2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapemobile3x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/9GnGUPwg.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/9GnGUPwg-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/9GnGUPwg-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 16233,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 15330,
+                          "title": "Push-up (tempo: 5-0-1-0)",
+                          "durationInSeconds": 5,
+                          "timestamp": 0,
+                          "rest": 90,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landmob-cp---push-up---32.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landdesk-cp---push-up---32.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/portmob-cp---push-up---32.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/portdesk-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapedesktop1x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapedesktop2x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapewidedesktop1x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapewidedesktop2x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapemobile1x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapemobile2x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapemobile3x-cp---push-up---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/EKrZ1iti.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/EKrZ1iti-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/EKrZ1iti-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 14344,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 14828,
+                          "title": "Barbell flat bench press",
+                          "durationInSeconds": 7,
+                          "timestamp": 0,
+                          "rest": 10,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landmob-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landdesk-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/portmob-cp---barbell-flat-bench-press---32.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/portdesk-cp---barbell-flat-bench-press---32.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapedesktop1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapedesktop2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapewidedesktop1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapewidedesktop2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapemobile1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapemobile2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapemobile3x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/9GnGUPwg.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/9GnGUPwg-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/9GnGUPwg-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 16233,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 15330,
+                          "title": "Push-up (tempo: 5-0-1-0)",
+                          "durationInSeconds": 5,
+                          "timestamp": 0,
+                          "rest": 90,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landmob-cp---push-up---32.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landdesk-cp---push-up---32.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/portmob-cp---push-up---32.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/portdesk-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapedesktop1x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapedesktop2x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapewidedesktop1x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapewidedesktop2x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapemobile1x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapemobile2x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapemobile3x-cp---push-up---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/EKrZ1iti.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/EKrZ1iti-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/EKrZ1iti-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 14344,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 14828,
+                          "title": "Barbell flat bench press",
+                          "durationInSeconds": 7,
+                          "timestamp": 0,
+                          "rest": 10,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landmob-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landdesk-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/portmob-cp---barbell-flat-bench-press---32.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/portdesk-cp---barbell-flat-bench-press---32.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapedesktop1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapedesktop2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapewidedesktop1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapewidedesktop2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapemobile1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapemobile2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapemobile3x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/9GnGUPwg.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/9GnGUPwg-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/9GnGUPwg-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 16233,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 15330,
+                          "title": "Push-up (tempo: 5-0-1-0)",
+                          "durationInSeconds": 5,
+                          "timestamp": 0,
+                          "rest": 90,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landmob-cp---push-up---32.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landdesk-cp---push-up---32.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/portmob-cp---push-up---32.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/portdesk-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapedesktop1x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapedesktop2x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapewidedesktop1x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapewidedesktop2x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapemobile1x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapemobile2x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapemobile3x-cp---push-up---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/EKrZ1iti.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/EKrZ1iti-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/EKrZ1iti-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 14344,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 14828,
+                          "title": "Barbell flat bench press",
+                          "durationInSeconds": 7,
+                          "timestamp": 0,
+                          "rest": 10,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landmob-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landdesk-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/portmob-cp---barbell-flat-bench-press---32.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/portdesk-cp---barbell-flat-bench-press---32.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapedesktop1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapedesktop2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapewidedesktop1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapewidedesktop2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapemobile1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapemobile2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapemobile3x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/9GnGUPwg.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/9GnGUPwg-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/9GnGUPwg-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 16233,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 15330,
+                          "title": "Push-up (tempo: 5-0-1-0)",
+                          "durationInSeconds": 5,
+                          "timestamp": 0,
+                          "rest": 90,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landmob-cp---push-up---32.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landdesk-cp---push-up---32.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/portmob-cp---push-up---32.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/portdesk-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapedesktop1x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapedesktop2x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapewidedesktop1x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapewidedesktop2x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapemobile1x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapemobile2x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapemobile3x-cp---push-up---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/EKrZ1iti.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/EKrZ1iti-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/EKrZ1iti-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 14344,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 14828,
+                          "title": "Barbell flat bench press",
+                          "durationInSeconds": 7,
+                          "timestamp": 0,
+                          "rest": 10,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landmob-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landdesk-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/portmob-cp---barbell-flat-bench-press---32.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/portdesk-cp---barbell-flat-bench-press---32.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapedesktop1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapedesktop2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapewidedesktop1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapewidedesktop2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapemobile1x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapemobile2x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/15000/14344/images/landscapemobile3x-cp---barbell-flat-bench-press---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/9GnGUPwg.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/9GnGUPwg-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/9GnGUPwg-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 16233,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 15330,
+                          "title": "Push-up (tempo: 5-0-1-0)",
+                          "durationInSeconds": 5,
+                          "timestamp": 0,
+                          "rest": 90,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landmob-cp---push-up---32.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landdesk-cp---push-up---32.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/portmob-cp---push-up---32.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/portdesk-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapedesktop1x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapedesktop2x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapewidedesktop1x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapewidedesktop2x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapemobile1x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapemobile2x-cp---push-up---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/17000/16233/images/landscapemobile3x-cp---push-up---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/EKrZ1iti.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/EKrZ1iti-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/EKrZ1iti-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Round 2",
+                      "summaryHeading": "Lay into it",
+                      "summary": "The incline will put the focus on your upper pecs.",
+                      "exercises": [
+                        {
+                          "contentId": 14458,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 15926,
+                          "title": "Dumbbell incline bench press (70 degrees)",
+                          "durationInSeconds": 8,
+                          "timestamp": 0,
+                          "rest": 0,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/landmob-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/landdesk-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/portmob-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/portdesk-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/landscapedesktop1x-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/landscapedesktop2x-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/landscapewidedesktop1x-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/landscapewidedesktop2x-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/landscapemobile1x-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/landscapemobile2x-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/landscapemobile3x-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/rNnMwegf.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/rNnMwegf-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/rNnMwegf-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 14459,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 15925,
+                          "title": "Dumbbell incline bench press (45 degrees)",
+                          "durationInSeconds": 8,
+                          "timestamp": 0,
+                          "rest": 0,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/landmob-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/landdesk-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/portmob-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/portdesk-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/landscapedesktop1x-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/landscapedesktop2x-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/landscapewidedesktop1x-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/landscapewidedesktop2x-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/landscapemobile1x-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/landscapemobile2x-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/landscapemobile3x-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/wgOB8yrN.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/wgOB8yrN-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/wgOB8yrN-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 14460,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 15924,
+                          "title": "Dumbbell incline bench press (30 degrees)",
+                          "durationInSeconds": 8,
+                          "timestamp": 0,
+                          "rest": 60,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/landmob-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/landdesk-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/portmob-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/portdesk-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/landscapedesktop1x-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/landscapedesktop2x-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/landscapewidedesktop1x-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/landscapewidedesktop2x-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/landscapemobile1x-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/landscapemobile2x-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/landscapemobile3x-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/tRFpfRB4.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/tRFpfRB4-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/tRFpfRB4-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 14458,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 15926,
+                          "title": "Dumbbell incline bench press (70 degrees)",
+                          "durationInSeconds": 8,
+                          "timestamp": 0,
+                          "rest": 0,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/landmob-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/landdesk-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/portmob-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/portdesk-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/landscapedesktop1x-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/landscapedesktop2x-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/landscapewidedesktop1x-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/landscapewidedesktop2x-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/landscapemobile1x-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/landscapemobile2x-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/15000/14458/images/landscapemobile3x-cp---dumbbell-incline-bench-press-70-degrees---169---v2-.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/rNnMwegf.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/rNnMwegf-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/rNnMwegf-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 14459,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 15925,
+                          "title": "Dumbbell incline bench press (45 degrees)",
+                          "durationInSeconds": 8,
+                          "timestamp": 0,
+                          "rest": 0,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/landmob-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/landdesk-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/portmob-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/portdesk-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/landscapedesktop1x-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/landscapedesktop2x-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/landscapewidedesktop1x-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/landscapewidedesktop2x-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/landscapemobile1x-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/landscapemobile2x-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/15000/14459/images/landscapemobile3x-cp---dumbbell-incline-bench-press-45-degrees---169---v2-.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/wgOB8yrN.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/wgOB8yrN-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/wgOB8yrN-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 14460,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 15924,
+                          "title": "Dumbbell incline bench press (30 degrees)",
+                          "durationInSeconds": 8,
+                          "timestamp": 0,
+                          "rest": 60,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/landmob-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/landdesk-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/portmob-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/portdesk-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/landscapedesktop1x-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/landscapedesktop2x-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/landscapewidedesktop1x-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/landscapewidedesktop2x-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/landscapemobile1x-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/landscapemobile2x-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/15000/14460/images/landscapemobile3x-cp---dumbbell-incline-bench-press-30-degrees---169---v2-.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/tRFpfRB4.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/tRFpfRB4-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/tRFpfRB4-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Round 3",
+                      "summaryHeading": "Pretty fly",
+                      "summary": "This move requires core stability so engage those abs and maintain a solid stance.",
+                      "exercises": [
+                        {
+                          "contentId": 14517,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 15990,
+                          "title": "Standing chest cable flys",
+                          "durationInSeconds": 10,
+                          "timestamp": 0,
+                          "rest": 60,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landmob-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landdesk-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/portmob-cp---standing-chest-cable-flys---32.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/portdesk-cp---standing-chest-cable-flys---32.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapedesktop1x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapedesktop2x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapewidedesktop1x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapewidedesktop2x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapemobile1x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapemobile2x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapemobile3x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/vyZK0PdG.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/vyZK0PdG-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/vyZK0PdG-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 14517,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 15990,
+                          "title": "Standing chest cable flys",
+                          "durationInSeconds": 10,
+                          "timestamp": 0,
+                          "rest": 60,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landmob-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landdesk-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/portmob-cp---standing-chest-cable-flys---32.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/portdesk-cp---standing-chest-cable-flys---32.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapedesktop1x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapedesktop2x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapewidedesktop1x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapewidedesktop2x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapemobile1x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapemobile2x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapemobile3x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/vyZK0PdG.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/vyZK0PdG-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/vyZK0PdG-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 14517,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 15990,
+                          "title": "Standing chest cable flys",
+                          "durationInSeconds": 10,
+                          "timestamp": 0,
+                          "rest": 60,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landmob-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landdesk-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/portmob-cp---standing-chest-cable-flys---32.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/portdesk-cp---standing-chest-cable-flys---32.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapedesktop1x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapedesktop2x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapewidedesktop1x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapewidedesktop2x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapemobile1x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapemobile2x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapemobile3x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/vyZK0PdG.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/vyZK0PdG-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/vyZK0PdG-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 14517,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 15990,
+                          "title": "Standing chest cable flys",
+                          "durationInSeconds": 10,
+                          "timestamp": 0,
+                          "rest": 60,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landmob-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landdesk-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/portmob-cp---standing-chest-cable-flys---32.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/portdesk-cp---standing-chest-cable-flys---32.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapedesktop1x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapedesktop2x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapewidedesktop1x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapewidedesktop2x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapemobile1x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapemobile2x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/15000/14517/images/landscapemobile3x-cp---standing-chest-cable-flys---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/vyZK0PdG.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/vyZK0PdG-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/vyZK0PdG-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Round 4",
+                      "summaryHeading": "Down for gains",
+                      "summary": "Your reps will go down with each set, so give it all you've got.",
+                      "exercises": [
+                        {
+                          "contentId": 16234,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 14942,
+                          "title": "Dips (tempo: 2-0-1-0)",
+                          "durationInSeconds": 15,
+                          "timestamp": 0,
+                          "rest": 10,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landmob-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landdesk-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/portmob-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/portdesk-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapedesktop1x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapedesktop2x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapewidedesktop1x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapewidedesktop2x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapemobile1x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapemobile2x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapemobile3x-cp---dips---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/hoF7lvWx.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/hoF7lvWx-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/hoF7lvWx-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 16234,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 14942,
+                          "title": "Dips (tempo: 2-0-1-0)",
+                          "durationInSeconds": 12,
+                          "timestamp": 0,
+                          "rest": 10,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landmob-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landdesk-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/portmob-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/portdesk-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapedesktop1x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapedesktop2x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapewidedesktop1x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapewidedesktop2x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapemobile1x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapemobile2x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapemobile3x-cp---dips---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/hoF7lvWx.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/hoF7lvWx-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/hoF7lvWx-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 16234,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 14942,
+                          "title": "Dips (tempo: 2-0-1-0)",
+                          "durationInSeconds": 10,
+                          "timestamp": 0,
+                          "rest": 10,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landmob-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landdesk-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/portmob-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/portdesk-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapedesktop1x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapedesktop2x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapewidedesktop1x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapewidedesktop2x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapemobile1x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapemobile2x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapemobile3x-cp---dips---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/hoF7lvWx.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/hoF7lvWx-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/hoF7lvWx-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        },
+                        {
+                          "contentId": 16234,
+                          "contentTypeLookupId": 6,
+                          "exerciseTypeLookupId": 1,
+                          "exerciseLoggingTypeLookupId": 2,
+                          "mappingId": 0,
+                          "parentId": 14942,
+                          "title": "Dips (tempo: 2-0-1-0)",
+                          "durationInSeconds": 8,
+                          "timestamp": 0,
+                          "rest": 0,
+                          "imageList": {
+                            "landmob": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landmob-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landdesk": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landdesk-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "portmob": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/portmob-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "portdesk": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/portdesk-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop1x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapedesktop1x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapedesktop2x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapedesktop2x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop1x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapewidedesktop1x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapewidedesktop2x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapewidedesktop2x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile1x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapemobile1x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile2x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapemobile2x-cp---dips---169.jpg",
+                              "altText": null
+                            },
+                            "landscapemobile3x": {
+                              "url": "https://cdn.centr.com/content/17000/16234/images/landscapemobile3x-cp---dips---169.jpg",
+                              "altText": null
+                            }
+                          },
+                          "media": [
+                            {
+                              "mediaType": 106,
+                              "value": "https://cdn.jwplayer.com/manifests/hoF7lvWx.m3u8"
+                            },
+                            {
+                              "mediaType": 110,
+                              "value": "https://content.jwplatform.com/videos/hoF7lvWx-ryqiVsBL.mp4"
+                            },
+                            {
+                              "mediaType": 109,
+                              "value": "https://content.jwplatform.com/videos/hoF7lvWx-f9Vyd3qF.mp4"
+                            }
+                          ],
+                          "equipment": [],
+                          "targets": []
+                        }
+                      ]
+                    }
+                  ],
+                  "imageList": null
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "canFavourite": false,
+      "seoContent": []
+    }
+  }
+}
