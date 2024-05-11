@@ -15,7 +15,7 @@ struct DetailActivityCard<Content: View, Destination: View>: View {
     let destinationView: Destination?
     let content: Content
     
-    init(title: String, icon: String,headerColor:Color, showCta: Bool? = true, destinationView: Destination? = nil, @ViewBuilder content: () -> Content) {
+    init(title: String, icon: String,headerColor:Color?, showCta: Bool? = true, destinationView: Destination? = nil, @ViewBuilder content: () -> Content) {
         self.title = title
         self.icon = icon
         self.headerColor = headerColor

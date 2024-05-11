@@ -1,0 +1,4 @@
+
+# Firebase iOS files
+/GoogleService-Info.plist
+/Pods/Firebase*

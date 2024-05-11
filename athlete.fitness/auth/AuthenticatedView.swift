@@ -22,10 +22,6 @@ struct AuthenticatedView<Content, Unauthenticated>: View where Content: View, Un
     var unauthenticated: Unauthenticated?
     @ViewBuilder var content: () -> Content
     
-    public init(unauthenticated: Unauthenticated?, @ViewBuilder content: @escaping () -> Content) {
-        self.unauthenticated = unauthenticated
-        self.content = content
-    }
     
     public init(@ViewBuilder unauthenticated: @escaping () -> Unauthenticated, @ViewBuilder content: @escaping () -> Content) {
         self.unauthenticated = unauthenticated()
@@ -40,35 +36,63 @@ struct AuthenticatedView<Content, Unauthenticated>: View where Content: View, Un
                 if let unauthenticated {
                     unauthenticated
                 }
-                
-                Text("Build better habits, build a better you.")
-                    .fontWeight(/*@START_MENU_TOKEN@*/.bold/*@END_MENU_TOKEN@*/)
-                    .font(.largeTitle)
+                VStack{
                     
-                    .kerning(0.35)
-                    .foregroundColor(.white)
-                    .frame(width: 300, alignment: .topLeading)
-                
-                Spacer()
-                Button("Sign In") {
-                    viewModel.reset()
-                    presentingLoginScreen.toggle()
-                }.padding(.horizontal, 25)
-                    .padding(.vertical, 15)
-                    .background(.accentGreen)
-                    .cornerRadius(34)
-                    .foregroundColor(.black)
-                    .font(.headline)
-                
-                Text("If you don't have an acocunt contact your administrator.")
-                    .font(.caption)
-                    .multilineTextAlignment(.center)
-                    .foregroundColor(.gray)
-                    .frame(width: 294, alignment: .top)
-                    .padding(.top,40)
+                    HStack{
+                        Image("msf_logo")
+                            .resizable()
+                            .aspectRatio(contentMode: .fit)
+                            .frame(maxWidth: 110)
+                            .padding()
+                            .padding(.top)
+                            .environment(\.colorScheme, .dark)
+                        Spacer()
+                    }
+                    .safeAreaPadding(.top)
+                    
+                    Text("Build better **habits**, build a better **you**.")
+                                            .font(.system(size: 60))
+                                            .opacity(0.3)
+                                            .foregroundColor(.white)
+                                            .multilineTextAlignment(.leading)
+                                            .padding(.horizontal)
+                      
+                    
+                    Spacer()
+
+                    HStack{
+                        Button(action: {
+                            viewModel.reset()
+                            presentingLoginScreen.toggle()
+                        }) {
+                            Label("Sign In", systemImage: "figure.run")
+                                .font(.title3)
+                                .labelStyle(.titleOnly)
+                                .padding(8)
+                                .frame(width: 280)
+                            
+                        }.buttonStyle(.borderedProminent)
+                            .tint(.accentGreen)
+                            .foregroundColor(.black)
+                            .controlSize(.regular)
+                            .cornerRadius(12)
+
+                    }
+                    
+                    Text("If you don't have an acocunt contact your administrator.")
+                        .font(.caption)
+                        .multilineTextAlignment(.center)
+                        .foregroundColor(.gray)
+                        .frame(width: 294, alignment: .top)
+                        .padding(.top,40)
+                    
+                }
+                .safeAreaPadding(.top)
+                .padding(.bottom,30)
+             
             }
-            .padding(.vertical, 100)
-            .frame(minWidth: 500)
+           
+           
             .background(.black.opacity(0.10))
             .background(
                 Image("bg_image")
@@ -76,13 +100,16 @@ struct AuthenticatedView<Content, Unauthenticated>: View where Content: View, Un
                     .aspectRatio(contentMode: .fill)
                     .clipped()
             )
+            .preferredColorScheme(.dark)
             .ignoresSafeArea()
             .sheet(isPresented: $presentingLoginScreen) {
                 AuthenticationView()
                     .environmentObject(viewModel)
-            }
+            }.accentColor(.accentGreen)
         case .authenticated:
-            HomeView().environmentObject(viewModel)
+            NavigationStack{
+                HomeView().environmentObject(viewModel).accentColor(.accentGreen)
+            }.accentColor(.accentGreen)
           
         }
     }
@@ -92,7 +119,5 @@ struct AuthenticatedView<Content, Unauthenticated>: View where Content: View, Un
 #Preview {
     AuthenticatedView {
         Text("You're signed in.")
-            .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .center)
-            .background(.yellow)
     }
 }

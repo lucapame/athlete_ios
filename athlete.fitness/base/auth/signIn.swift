@@ -33,13 +33,13 @@ struct SignIn: View {
     
     var body: some View {
         VStack {
-            Image("logo_image")
+            Image("msf_logo")
                 .resizable()
                 .aspectRatio(contentMode: .fit)
                 .frame(height: 50)
                 .padding(.top,35)
             
-            Text("Log in so you can access your account.")
+            Text("Nail the basics to build the rippling body of a hero.")
                 .font(.callout)
                 .fontWeight(.semibold)
                 .foregroundStyle(.gray)

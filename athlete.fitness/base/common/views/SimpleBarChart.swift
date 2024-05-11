@@ -52,12 +52,7 @@ struct SimpleWorkoutMinutesBarChart: View {
         ]
     }
 
-func workout(weekday: Int = 1) -> Date? {
-    var components = DateComponents()
-    components.weekday = weekday
-    
-    return Calendar.current.nextDate(after: Date(), matching: components, matchingPolicy: .nextTime)
-}
+
 
 #Preview {
     ScrollView {
