@@ -1,0 +1,44 @@
+# Xcode
+.DS_Store
+*/.DS_Store
+*.xcuserstate
+*.xcworkspace
+xcuserdata/
+
+# Build products
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xccheckout
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Pods - for CocoaPods dependency management
+Pods/
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# Carthage
+Carthage/Build/
+
+# Misc
+*.log
+*.swp
+
+# Firebase
+GoogleService-Info.plist
+
+# Exclude any personal Firebase configurations
+firebase-configurations/
+
+# Exclude any local Firebase database cache
+firebase_database/
+
