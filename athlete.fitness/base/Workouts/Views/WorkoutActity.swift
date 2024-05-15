@@ -8,7 +8,7 @@
 import SwiftUI
 import AVKit
 struct WorkoutActity: View {
-    @State private var tabSelection = 2
+    @State private var tabSelection = 1
     @State private var isPaused: Bool = false
     @State private var showingSheet: Bool = false
     
@@ -34,7 +34,7 @@ struct WorkoutActity: View {
                         
                     })
                     Spacer()
-                    HStack(alignment: .center,spacing:15,content: {
+                    HStack(alignment: .center,spacing:10,content: {
                         VStack (alignment: .leading, spacing:2,content: {
                             Text("Weighted pull-ups").font(.largeTitle).fontWeight(.bold)
                             Text("2/23").foregroundStyle(.gray)
@@ -60,7 +60,7 @@ struct WorkoutActity: View {
                     VideoPlayer(player: AVPlayer(url: URL(string: "https://content.jwplatform.com/videos/hpG8HW01-f9Vyd3qF.mp4")!))
                         .frame(height: 215)
                         .cornerRadius(12)
-                    HStack(alignment: .center,spacing:15,content: {
+                    HStack(alignment: .center,spacing:10,content: {
                         VStack (alignment: .leading, spacing:2,content: {
                             Text("Weighted pull-ups").font(.largeTitle).fontWeight(.bold)
                             Text("2/23").foregroundStyle(.gray)
@@ -110,17 +110,24 @@ struct WorkoutActity: View {
                 .buttonStyle(PlainButtonStyle())
                 
                 
-                Button(action: {
-                    isPaused.toggle()            }) {
-                        Image(systemName: isPaused ? "play.fill": "pause.fill").font(.largeTitle)
-                            .contentTransition(.symbolEffect(.replace.offUp.byLayer))
-                    }
-                    .padding(.all)
-                    .frame(width: 100)
-                    .frame(height: 100)
-                    .background(Color.gray.opacity(0.3))
-                    .cornerRadius(100)
-                    .buttonStyle(PlainButtonStyle())
+                
+                HoldDownButton(action: {
+                    print("Button held down!")
+                }, ringSize: 102) {
+                    Button(action: {
+                        isPaused.toggle()            }) {
+                            Image(systemName: isPaused ? "play.fill": "pause.fill").font(.largeTitle)
+                                .contentTransition(.symbolEffect(.replace.offUp.byLayer))
+                        }
+                        .padding(.all)
+                        .frame(width: 100)
+                        .frame(height: 100)
+                        .background(Color.gray.opacity(0.3))
+                        .cornerRadius(100)
+                        .buttonStyle(PlainButtonStyle())
+                }
+                
+                
                 
                 Button(action: {
                     // Action to perform when the button is tapped
@@ -166,10 +173,10 @@ struct WorkoutActity: View {
                 
                 Picker("dots", selection: $scnWeight) {
                     ForEach(Array(stride(from: 0, to: 100, by: 25)), id: \.self) { scnWeight in
-                           Text(".\(scnWeight)")
-                       }
+                        Text(".\(scnWeight)")
+                    }
                 }
-
+                
                 .pickerStyle(.wheel)
                 .clipped()
                 

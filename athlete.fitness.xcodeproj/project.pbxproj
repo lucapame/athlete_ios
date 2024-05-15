@@ -7,13 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6248EDF52BF3E6BE0068884B /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 6248EDF42BF3E6BE0068884B /* .gitignore */; };
+		6248EDF72BF3E77A0068884B /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6248EDF62BF3E77A0068884B /* GoogleService-Info.plist */; };
+		6248EDF92BF3EB6C0068884B /* HoldDownButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6248EDF82BF3EB6C0068884B /* HoldDownButton.swift */; };
 		62D29A122BD882E10086A273 /* athlete_fitnessApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62D29A112BD882E10086A273 /* athlete_fitnessApp.swift */; };
 		62D29A162BD882E20086A273 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 62D29A152BD882E20086A273 /* Assets.xcassets */; };
 		9C1A854D2BED5F2300BDC7FD /* WorkoutActity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1A854C2BED5F2300BDC7FD /* WorkoutActity.swift */; };
 		9C386AD22BE9BCE700B63E95 /* Views+Extentions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C386AD12BE9BCE700B63E95 /* Views+Extentions.swift */; };
 		9C386AD42BEAAF8000B63E95 /* ExerciseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C386AD32BEAAF8000B63E95 /* ExerciseView.swift */; };
 		9C386AD62BEAC67A00B63E95 /* WeightProgressSmallChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C386AD52BEAC67A00B63E95 /* WeightProgressSmallChart.swift */; };
-		9CB8A19E2BE56CA800E7CB69 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9CB8A19D2BE56CA800E7CB69 /* GoogleService-Info.plist */; };
 		9CD5414A2BE968ED00872B6B /* ExerciseSmallCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD541492BE968ED00872B6B /* ExerciseSmallCard.swift */; };
 		9CD5414E2BE9715100872B6B /* units.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CD5414D2BE9715100872B6B /* units.swift */; };
 		9CD77BA92BDC413300B1E449 /* FirebaseAppDistribution-Beta in Frameworks */ = {isa = PBXBuildFile; productRef = 9CD77BA82BDC413300B1E449 /* FirebaseAppDistribution-Beta */; };
@@ -50,6 +52,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6248EDF42BF3E6BE0068884B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		6248EDF62BF3E77A0068884B /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		6248EDF82BF3EB6C0068884B /* HoldDownButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HoldDownButton.swift; sourceTree = "<group>"; };
 		62D29A0E2BD882E10086A273 /* athlete.fitness.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = athlete.fitness.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		62D29A112BD882E10086A273 /* athlete_fitnessApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = athlete_fitnessApp.swift; sourceTree = "<group>"; };
 		62D29A152BD882E20086A273 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,7 +62,6 @@
 		9C386AD12BE9BCE700B63E95 /* Views+Extentions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Views+Extentions.swift"; sourceTree = "<group>"; };
 		9C386AD32BEAAF8000B63E95 /* ExerciseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseView.swift; sourceTree = "<group>"; };
 		9C386AD52BEAC67A00B63E95 /* WeightProgressSmallChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeightProgressSmallChart.swift; sourceTree = "<group>"; };
-		9CB8A19D2BE56CA800E7CB69 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		9CD541492BE968ED00872B6B /* ExerciseSmallCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseSmallCard.swift; sourceTree = "<group>"; };
 		9CD5414D2BE9715100872B6B /* units.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = units.swift; sourceTree = "<group>"; };
 		9CD77BCD2BDC798B00B1E449 /* AuthenticatedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthenticatedView.swift; sourceTree = "<group>"; };
@@ -107,6 +111,7 @@
 		62D29A052BD882E10086A273 = {
 			isa = PBXGroup;
 			children = (
+				6248EDF42BF3E6BE0068884B /* .gitignore */,
 				62D29A102BD882E10086A273 /* athlete.fitness */,
 				62D29A0F2BD882E10086A273 /* Products */,
 			);
@@ -123,13 +128,13 @@
 		62D29A102BD882E10086A273 /* athlete.fitness */ = {
 			isa = PBXGroup;
 			children = (
+				6248EDF62BF3E77A0068884B /* GoogleService-Info.plist */,
 				9C386AD02BE9BCB400B63E95 /* Helpers */,
 				9CD5414B2BE9712800872B6B /* constants */,
 				9CD77BD42BDC7A7400B1E449 /* base */,
 				9CD77BCC2BDC78F500B1E449 /* auth */,
 				62D29A112BD882E10086A273 /* athlete_fitnessApp.swift */,
 				62D29A152BD882E20086A273 /* Assets.xcassets */,
-				9CB8A19D2BE56CA800E7CB69 /* GoogleService-Info.plist */,
 				9CFDB5772BDF21490072ADD8 /* Preview Content */,
 			);
 			path = athlete.fitness;
@@ -215,6 +220,7 @@
 				9CFDB58B2BE09EDC0072ADD8 /* CustomStyles.swift */,
 				9CD541492BE968ED00872B6B /* ExerciseSmallCard.swift */,
 				9C386AD52BEAC67A00B63E95 /* WeightProgressSmallChart.swift */,
+				6248EDF82BF3EB6C0068884B /* HoldDownButton.swift */,
 			);
 			path = views;
 			sourceTree = "<group>";
@@ -326,8 +332,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6248EDF52BF3E6BE0068884B /* .gitignore in Resources */,
 				62D29A162BD882E20086A273 /* Assets.xcassets in Resources */,
-				9CB8A19E2BE56CA800E7CB69 /* GoogleService-Info.plist in Resources */,
+				6248EDF72BF3E77A0068884B /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -340,6 +347,7 @@
 			files = (
 				9CFDB58A2BE085010072ADD8 /* WorkoutRutineSmallCard.swift in Sources */,
 				9CFDB5862BE044050072ADD8 /* WorkoutRutineCard.swift in Sources */,
+				6248EDF92BF3EB6C0068884B /* HoldDownButton.swift in Sources */,
 				9CD77BDA2BDC7B3E00B1E449 /* HomeView.swift in Sources */,
 				9CD77BCE2BDC798B00B1E449 /* AuthenticatedView.swift in Sources */,
 				9CD5414A2BE968ED00872B6B /* ExerciseSmallCard.swift in Sources */,
