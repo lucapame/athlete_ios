@@ -10,15 +10,16 @@ import Firebase
 
 @main
 struct athlete_fitnessApp: App {
+    @StateObject private var viewModel = AuthenticationViewModel()
     init() {
-        
         FirebaseApp.configure()
     }
     
     var body: some Scene {
         WindowGroup {
-        
-            AuthenticatedView(content: {})
+            AuthenticatedView(content: {
+                MainView()
+            })
 
         
         }

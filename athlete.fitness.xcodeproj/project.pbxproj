@@ -10,6 +10,9 @@
 		6248EDF52BF3E6BE0068884B /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 6248EDF42BF3E6BE0068884B /* .gitignore */; };
 		6248EDF72BF3E77A0068884B /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6248EDF62BF3E77A0068884B /* GoogleService-Info.plist */; };
 		6248EDF92BF3EB6C0068884B /* HoldDownButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6248EDF82BF3EB6C0068884B /* HoldDownButton.swift */; };
+		6274E3452BFE7FA900837F94 /* DummyHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6274E3442BFE7FA900837F94 /* DummyHelper.swift */; };
+		628DE83B2BFE654A00819C67 /* HealthManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 628DE83A2BFE654A00819C67 /* HealthManager.swift */; };
+		628DE83D2BFE679F00819C67 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 628DE83C2BFE679F00819C67 /* MainView.swift */; };
 		62D29A122BD882E10086A273 /* athlete_fitnessApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 62D29A112BD882E10086A273 /* athlete_fitnessApp.swift */; };
 		62D29A162BD882E20086A273 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 62D29A152BD882E20086A273 /* Assets.xcassets */; };
 		9C1A854D2BED5F2300BDC7FD /* WorkoutActity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1A854C2BED5F2300BDC7FD /* WorkoutActity.swift */; };
@@ -55,6 +58,10 @@
 		6248EDF42BF3E6BE0068884B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		6248EDF62BF3E77A0068884B /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		6248EDF82BF3EB6C0068884B /* HoldDownButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HoldDownButton.swift; sourceTree = "<group>"; };
+		6274E3432BFE739800837F94 /* athlete.fitness.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = athlete.fitness.entitlements; sourceTree = "<group>"; };
+		6274E3442BFE7FA900837F94 /* DummyHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DummyHelper.swift; sourceTree = "<group>"; };
+		628DE83A2BFE654A00819C67 /* HealthManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthManager.swift; sourceTree = "<group>"; };
+		628DE83C2BFE679F00819C67 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		62D29A0E2BD882E10086A273 /* athlete.fitness.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = athlete.fitness.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		62D29A112BD882E10086A273 /* athlete_fitnessApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = athlete_fitnessApp.swift; sourceTree = "<group>"; };
 		62D29A152BD882E20086A273 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -128,6 +135,7 @@
 		62D29A102BD882E10086A273 /* athlete.fitness */ = {
 			isa = PBXGroup;
 			children = (
+				6274E3432BFE739800837F94 /* athlete.fitness.entitlements */,
 				6248EDF62BF3E77A0068884B /* GoogleService-Info.plist */,
 				9C386AD02BE9BCB400B63E95 /* Helpers */,
 				9CD5414B2BE9712800872B6B /* constants */,
@@ -144,6 +152,8 @@
 			isa = PBXGroup;
 			children = (
 				9C386AD12BE9BCE700B63E95 /* Views+Extentions.swift */,
+				628DE83A2BFE654A00819C67 /* HealthManager.swift */,
+				6274E3442BFE7FA900837F94 /* DummyHelper.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -174,6 +184,7 @@
 				9CFDB57A2BDF262B0072ADD8 /* common */,
 				9CD77BD82BDC7AFB00B1E449 /* auth */,
 				9CD77BD72BDC7AEE00B1E449 /* home */,
+				628DE83C2BFE679F00819C67 /* MainView.swift */,
 			);
 			path = base;
 			sourceTree = "<group>";
@@ -360,9 +371,12 @@
 				9C1A854D2BED5F2300BDC7FD /* WorkoutActity.swift in Sources */,
 				9CD5414E2BE9715100872B6B /* units.swift in Sources */,
 				9CFDB57F2BDF4FBE0072ADD8 /* DetailActivityCard.swift in Sources */,
+				628DE83B2BFE654A00819C67 /* HealthManager.swift in Sources */,
+				6274E3452BFE7FA900837F94 /* DummyHelper.swift in Sources */,
 				9C386AD42BEAAF8000B63E95 /* ExerciseView.swift in Sources */,
 				9CFDB58C2BE09EDC0072ADD8 /* CustomStyles.swift in Sources */,
 				9CD77BD32BDC7A0E00B1E449 /* AuthenticationViewMode.swift in Sources */,
+				628DE83D2BFE679F00819C67 /* MainView.swift in Sources */,
 				9CFDB5822BE031D90072ADD8 /* SettignsView.swift in Sources */,
 				9CFDB5902BE0A4D70072ADD8 /* WorkoutDetails.swift in Sources */,
 				9CD77BD62BDC7A8700B1E449 /* signIn.swift in Sources */,
@@ -497,6 +511,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentGreen;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
+				CODE_SIGN_ENTITLEMENTS = athlete.fitness/athlete.fitness.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"athlete.fitness/Preview Content\"";
@@ -504,6 +519,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = SMFItness;
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "Allow accsess to get sync features on Health App";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -531,6 +547,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentGreen;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
+				CODE_SIGN_ENTITLEMENTS = athlete.fitness/athlete.fitness.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"athlete.fitness/Preview Content\"";
@@ -538,6 +555,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = SMFItness;
+				INFOPLIST_KEY_NSHealthShareUsageDescription = "Allow accsess to get sync features on Health App";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

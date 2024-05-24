@@ -107,9 +107,9 @@ struct AuthenticatedView<Content, Unauthenticated>: View where Content: View, Un
                     .environmentObject(viewModel)
             }.accentColor(.accentGreen)
         case .authenticated:
-            NavigationStack{
-                HomeView().environmentObject(viewModel).accentColor(.accentGreen)
-            }.accentColor(.accentGreen)
+          
+            content().environmentObject(viewModel)
+         
           
         }
     }

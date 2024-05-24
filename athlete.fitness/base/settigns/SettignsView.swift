@@ -21,7 +21,7 @@ struct SettignsView: View {
         NavigationStack {
             List {
                 Section() {
-                    NavigationLink(destination: HomeView()) {
+                    NavigationLink(destination: DummyHelper()) {
                         AvatarView(userName: "Luis Parra", size: 60)
                         VStack(alignment: .leading, content: {
                             Text("Luis Carlos").font(.title2)
@@ -34,16 +34,16 @@ struct SettignsView: View {
                     
                 }
                 Section() {
-                    NavigationLink(destination: HomeView()) {
+                    NavigationLink(destination: DummyHelper()) {
                         Text("Body Measures")
                     }
-                    NavigationLink(destination: HomeView()) {
+                    NavigationLink(destination: DummyHelper()) {
                         Text("Workouts")
                     }
-                    NavigationLink(destination: HomeView()) {
+                    NavigationLink(destination: DummyHelper()) {
                         Text("Membership")
                     }
-                    NavigationLink(destination: HomeView()) {
+                    NavigationLink(destination: DummyHelper()) {
                         Text("App Settings")
                     }
                 }

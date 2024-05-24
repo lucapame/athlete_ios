@@ -40,7 +40,7 @@ struct ExerciseView: View {
                         .padding(.bottom,33)
                 }
                 Section {
-                    DetailActivityCard(title:"Weight Progress", icon:"figure.strengthtraining.traditional",headerColor:.primary,destinationView: HomeView()){
+                    DetailActivityCard(title:"Weight Progress", icon:"figure.strengthtraining.traditional",headerColor:.primary,destinationView: DummyHelper()){
                         HStack{
                             WeightLiftingChartView()
                         }.padding(.vertical,33)

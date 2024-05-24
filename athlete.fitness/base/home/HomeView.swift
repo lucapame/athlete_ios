@@ -12,9 +12,8 @@ import SwiftUI
 struct HomeView: View {
     
     @AppStorage("userName") private var userName: String = ""
+    @EnvironmentObject var healthManager: HealthManager
     
-    @EnvironmentObject var authViewModel: AuthenticationViewModel
-
     @State private var showingProfileSheet: Bool = false
     @State private var isRefreshing = false // State to track refreshing
     
@@ -39,29 +38,33 @@ struct HomeView: View {
                             }
                             
                             HStack{
-                                DetailActivityCard(title:"Workout", icon:"figure.run",headerColor: Color.accentGreen,showCta:false,destinationView: HomeView()){
+                                DetailActivityCard(title:  healthManager.activites["activeCalories"]?.title ?? "Calories", icon: healthManager.activites["activeCalories"]?.icon ?? "flame.fill",headerColor: Color.red,showCta:false,destinationView: DummyHelper()){
                                     HStack{
-                                        Text("45 Min")
+                                        Text((healthManager.activites["activeCalories"]?.value ?? "0") + " Kcal")
                                             .padding(3)
-                                            .multilineTextAlignment(/*@START_MENU_TOKEN@*/.leading/*@END_MENU_TOKEN@*/)
+                                            .multilineTextAlignment(.leading)
                                             .font(.title2)
                                             .fontWeight(.bold)
                                         Spacer()
                                     }
-                                    
                                 }
-                                DetailActivityCard(title:"Calories", icon:"flame.fill",headerColor: Color.red,showCta:false,destinationView: HomeView()){
-                                    HStack(spacing: 0, content: {
-                                        Text("1,323 Cal")
+
+                                DetailActivityCard(title: healthManager.activites["workoutMinutes"]?.title ?? "Workout", icon: healthManager.activites["workoutMinutes"]?.icon ?? "figure.run",headerColor: Color.accentGreen,showCta:false,destinationView: DummyHelper()){
+                                    HStack{
+                                        Text((healthManager.activites["workoutMinutes"]?.value ?? "0") + " Min")
                                             .padding(3)
-                                            .multilineTextAlignment(/*@START_MENU_TOKEN@*/.leading/*@END_MENU_TOKEN@*/)
+                                            .multilineTextAlignment(.leading)
                                             .font(.title2)
                                             .fontWeight(.bold)
                                         Spacer()
-                                    })
-                                    
+                                    }
                                 }
+                                
+                        
+                            }.onAppear{
+                                healthManager.fetchTodaySummary()
                             }
+                            
                             
                             WorkoutRutineCard()
                             
@@ -72,13 +75,13 @@ struct HomeView: View {
                                 Spacer()
                             }
                             
-                            DetailActivityCard(title:"Workout Minutes", icon:"figure.strengthtraining.traditional",headerColor: Color.accentGreen,destinationView: HomeView()){
+                            DetailActivityCard(title:"Workout Minutes", icon:"figure.strengthtraining.traditional",headerColor: Color.accentGreen,destinationView: DummyHelper()){
                                 HStack{
                                     SimpleWorkoutMinutesBarChart()
                                 }
                             }
                             
-                            DetailActivityCard(title:"Latest Activities", icon:"figure.run",headerColor: Color.mint,destinationView: HomeView()){
+                            DetailActivityCard(title:"Latest Activities", icon:"figure.run",headerColor: Color.mint,destinationView: DummyHelper()){
                                 VStack(spacing: 12, content: {
                                     WorkoutRutineSmallCard()
                                     WorkoutRutineSmallCard()
@@ -167,14 +170,17 @@ struct HomeView: View {
         }
     }
     
+    
+    
 }
 
 
 
-
 #Preview {
-    NavigationView{
-        HomeView().environmentObject(AuthenticationViewModel())
-    }.accentColor(.accentGreen)
-    
+    let healthManager = HealthManager() // Ensure this matches your initialization
+    return NavigationView {
+        HomeView()
+            .environmentObject(healthManager)
+    }
+    .accentColor(.accentGreen)
 }
