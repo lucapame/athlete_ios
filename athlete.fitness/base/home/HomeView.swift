@@ -177,7 +177,7 @@ struct HomeView: View {
 
 
 #Preview {
-    let healthManager = HealthManager() // Ensure this matches your initialization
+    let healthManager = HealthManager.shared // Ensure this matches your initialization
     return NavigationView {
         HomeView()
             .environmentObject(healthManager)

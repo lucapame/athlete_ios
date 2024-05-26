@@ -12,6 +12,8 @@ struct WorkoutActity: View {
     @State private var isPaused: Bool = false
     @State private var showingSheet: Bool = false
     
+    @Environment(\.dismiss) private var dismiss
+    
     var body: some View {
         VStack(spacing: 2, content: {
             TabView(selection: $tabSelection) {
@@ -112,7 +114,7 @@ struct WorkoutActity: View {
                 
                 
                 HoldDownButton(action: {
-                    print("Button held down!")
+                    dismiss.callAsFunction()
                 }, ringSize: 102) {
                     Button(action: {
                         isPaused.toggle()            }) {
