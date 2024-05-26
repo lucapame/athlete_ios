@@ -38,7 +38,7 @@ struct WorkoutActity: View {
                     Spacer()
                     HStack(alignment: .center,spacing:10,content: {
                         VStack (alignment: .leading, spacing:2,content: {
-                            Text("Weighted pull-ups").font(.largeTitle).fontWeight(.bold)
+                            Text("Weighted pull-ups").font(.largeTitle).fontWeight(.bold).fixedSize(horizontal: false, vertical: true) .lineLimit(2)
                             Text("2/23").foregroundStyle(.gray)
                         })
                         Spacer()
@@ -47,7 +47,7 @@ struct WorkoutActity: View {
                             Text("REPS").foregroundStyle(.red)
                         })
                     }).padding(.bottom,30)
-                }).frame(width: .infinity).padding()
+                }).padding()
                     .tag(1)
                 VStack(alignment: .leading, spacing:40,content: {
                     HStack(alignment: .center,content: {
@@ -64,7 +64,7 @@ struct WorkoutActity: View {
                         .cornerRadius(12)
                     HStack(alignment: .center,spacing:10,content: {
                         VStack (alignment: .leading, spacing:2,content: {
-                            Text("Weighted pull-ups").font(.largeTitle).fontWeight(.bold)
+                            Text("Weighted pull-ups").font(.largeTitle).fontWeight(.bold).fixedSize(horizontal: false, vertical: true).lineLimit(2)
                             Text("2/23").foregroundStyle(.gray)
                         })
                         Spacer()
@@ -73,7 +73,7 @@ struct WorkoutActity: View {
                             Text("REPS").foregroundStyle(.red)
                         })
                     }).padding(.bottom)
-                }).frame(width: .infinity).padding()
+                }).padding()
                     .tag(2)
             }
             .tabViewStyle(.page(indexDisplayMode: .always))

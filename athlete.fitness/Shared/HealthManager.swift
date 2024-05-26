@@ -30,6 +30,7 @@ class HealthManager: NSObject, ObservableObject {
         let newState: HKWorkoutSessionState
         let date: Date
     }
+    @Published var isActiveSession : Bool = false
     /**
      The workout session live states that the UI observes.
      */
@@ -81,20 +82,16 @@ class HealthManager: NSObject, ObservableObject {
      The Swift actors don't handle tasks in a first-in-first-out way. Use AsyncStream to make sure that the app presents the latest state.
      */
     let asynStreamTuple = AsyncStream.makeStream(of: SessionSateChange.self, bufferingPolicy: .bufferingNewest(1))
-    /**
-     WorkoutManager is a singleton.
-     */
-    static let shared = HealthManager()
+
     
     /**
      Kick off a task to consume the async stream. The next value in the stream can't start processing
      until "await consumeSessionStateChange(value)" returns and the loop enters the next iteration, which serializes the asynchronous operations.
      */
     
-    private override init() {
+    override init() {
         super.init()
-        
-        
+        self.isActiveSession = false
         Task {
             do{
                 try await healthStore.requestAuthorization(toShare: [], read: typesToRead)
@@ -109,6 +106,11 @@ class HealthManager: NSObject, ObservableObject {
             }
         }
     }
+    
+    /**
+     WorkoutManager is a singleton.
+     */
+    static let shared = HealthManager()
     /**
      Consume the session state change from the async stream to update sessionState and finish the workout.
      */

@@ -9,25 +9,36 @@ import SwiftUI
 
 struct MainView: View {
     @EnvironmentObject var authViewModel: AuthenticationViewModel
+    @EnvironmentObject var hManager: HealthManager
     
-    @StateObject var hManager = HealthManager.shared
-    @State private var isPresenting = true
+    
+ 
+    @State private var didStartWorkout = false
+
+    
     
     var body: some View {
         NavigationView{
             HomeView().environmentObject(hManager)
         }
-        .fullScreenCover(isPresented: $isPresenting,
+        .onAppear {
+                    didStartWorkout = hManager.isActiveSession
+                }
+        .fullScreenCover(isPresented: $didStartWorkout,
                          onDismiss: didDismiss) {
             WorkoutActity()
         }.accentColor(.accentGreen)
     }
     
     func didDismiss() {
-        // Handle the dismissing action.
+       
     }
 }
 
+
 #Preview {
-    MainView().environmentObject(AuthenticationViewModel())
+    let healthManager = HealthManager.shared // Ensure this matches your initialization
+    return  MainView().environmentObject(AuthenticationViewModel())
+            .environmentObject(healthManager)
+  
 }

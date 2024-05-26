@@ -11,6 +11,8 @@ import Firebase
 @main
 struct athlete_fitnessApp: App {
     @StateObject private var viewModel = AuthenticationViewModel()
+    @StateObject var hManager = HealthManager.shared
+
     init() {
         FirebaseApp.configure()
     }
@@ -18,7 +20,7 @@ struct athlete_fitnessApp: App {
     var body: some Scene {
         WindowGroup {
             AuthenticatedView(content: {
-                MainView()
+                MainView().environmentObject(hManager)
             })
 
         
